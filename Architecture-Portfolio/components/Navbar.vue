@@ -5,7 +5,7 @@
                 <div class="header-wrapper">
                     <div class="split-content header-right">
                         <a href="/" class="brand w-nav-brand w--current">
-                            <img src="https://assets.website-files.com/61129bb2ecedf803564c68ec/612a715b08e8df7a8419c063_logo-you-x-webflow-template.svg" alt="Header Logo" class="header-logo">
+                            <img src="~/assets/image/Logo.png" style="" alt="Header Logo" class="header-logo">
                         </a>
                     </div>
                     <div class="split-content header-center">

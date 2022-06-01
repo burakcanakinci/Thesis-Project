@@ -38,8 +38,8 @@ body {
 }
 
 .header {
-    padding-top: 2em;
-    padding-bottom: 2em;
+    padding-top: 0.8em;
+    padding-bottom: 0.8em;
     background-color: var(--lightGray);
 }
 
@@ -58,8 +58,8 @@ body {
 
 .container-default {
     max-width: 78em;
-    margin-right: auto;
-    margin-left: auto;
+    /* margin-right: auto;
+    margin-left: auto; */
     padding-left: 1.5em;
     padding-right: 1.5em;
 }
@@ -67,7 +67,7 @@ body {
 .w-container {
     margin-left: auto;
     margin-right: auto;
-    max-width: 58.75em;
+    max-width: 90em;
 }
 
 .header-wrapper {
@@ -145,7 +145,8 @@ a {
 }
 
 .header-logo {
-    width: 8.125em;
+    width: 110px;
+    
     -webkit-transition: -webkit-transform 300ms ease;
     transition: -webkit-transform 300ms ease;
     transition: transform 300ms ease;
@@ -220,6 +221,7 @@ ul, ol {
 }
 
 .email-header-wrapper {
+    margin-left: 16em;
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
