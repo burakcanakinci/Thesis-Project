@@ -5,6 +5,11 @@ export default {
     htmlAttrs: {
       lang: 'en',
     },
+    script:[
+      {
+        src: 'js/toggle.js',
+        body: true,
+      },],
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -12,10 +17,14 @@ export default {
       { name: 'format-detection', content: 'telephone=no' },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
-  css: ['~/assets/style/css/navbar.css'],
+  css: ['~/assets/style/css/navbar.css',
+        '~/assets/style/css/mobile-responsive.css'
+        
+      ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [],

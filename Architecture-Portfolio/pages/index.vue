@@ -1,5 +1,10 @@
 <template>
-  <Navbar />
+ 
+    <div class="page main-page">
+        <Navbar />
+   <Hero />
+    
+  </div>
 </template>
 
 <script>
