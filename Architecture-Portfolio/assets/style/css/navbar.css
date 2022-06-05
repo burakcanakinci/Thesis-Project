@@ -14,7 +14,10 @@ html {
     --lightGray: #F0EFEB;
     --mediumGray: #A09881;
     --darkGray: #807362;
-    --darkGreen: #4B572C;
+    --darkGreen: #6B705C;
+    --darkLightGreen: #6B705C;
+    --mediumGreen: #A5A58D;
+    --lightGreen: #B7B7A4;
     --lightCream: #FFF1E6;
     --mediumCream: #FFE8D6;
     --lightBrown: #DDBEA9;
@@ -1125,7 +1128,7 @@ html {
     position: relative;
     height: 300px;
     text-align: center;
-    background: #dddddd;
+    background: #fff;
     clear: both;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
     tap-highlight-color: rgba(0, 0, 0, 0);
@@ -1253,6 +1256,7 @@ html {
     width: 1em;
     height: 1em;
   }
+
   .w-slider-aria-label {
     border: 0;
     clip: rect(0 0 0 0);
@@ -5150,7 +5154,7 @@ html {
     padding: 24px 60px;
     border-style: none;
     border-radius: 80px;
-    background-color: var(--darkGreen);
+    background-color: var(--darkLightGreen);
     -webkit-transition: color 300ms ease, box-shadow 300ms ease,
       background-color 300ms ease, -webkit-transform 300ms ease;
     transition: color 300ms ease, box-shadow 300ms ease,
@@ -5168,7 +5172,7 @@ html {
   }
   
   .button-primary:hover {
-    background-color: var(--paleRed);
+    background-color: var(--mediumGreen);
     box-shadow: 0 4px 20px -5px rgba(20, 20, 43, 0.15);
     -webkit-transform: translate3d(0px, -6px, 0.01px);
     transform: translate3d(0px, -6px, 0.01px);
@@ -5740,6 +5744,7 @@ html {
     overflow: hidden;
     border-radius: 20px;
     background-color: #fff;
+    border: #fff;
   }
   
   .card.changelog {
@@ -6801,7 +6806,7 @@ html {
   }
   
   .bg-neutral-800 {
-    background-color: var(-var(--textColor));
+    background-color: var(--textColor);
   }
   
   .cart-close-button {
@@ -6955,7 +6960,8 @@ html {
     min-height: 116%;
     margin-top: -40px;
     border-radius: 24px;
-    background-color: #f6f7ff;
+    background-color: var(--mediumCream);
+    opacity: 0.15;
   }
   
   .bg.resume-square {
@@ -7213,18 +7219,19 @@ html {
       color 300ms ease;
     transition: transform 300ms ease, background-color 300ms ease,
       color 300ms ease, -webkit-transform 300ms ease;
-    color: var(-var(--textColor));
+    color: #fff;
     font-size: 27px;
     line-height: 1em;
     -webkit-transform-style: preserve-3d;
     transform-style: preserve-3d;
+    background-color: var(--darkGreen);
   }
   
   .slider-arrow:hover {
-    background-color: var(-var(--textColor));
     -webkit-transform: scale3d(1.05, 1.05, 1.01);
     transform: scale3d(1.05, 1.05, 1.01);
     color: #fff;
+    background-color: var(--mediumGreen);
   }
   
   .slider-arrow.portfolio-left {
@@ -8394,7 +8401,7 @@ html {
     }
   
     .menu-button:hover {
-      background-color: var(--paleRed);
+      background-color: var(--mediumGreen);
       -webkit-transform: scale(0.94);
       -ms-transform: scale(0.94);
       transform: scale(0.94);
