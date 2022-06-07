@@ -15,7 +15,6 @@ html {
     --mediumGray: #A09881;
     --darkGray: #807362;
     --darkGreen: #6B705C;
-    --darkLightGreen: #6B705C;
     --mediumGreen: #A5A58D;
     --lightGreen: #B7B7A4;
     --lightCream: #FFF1E6;
@@ -5154,7 +5153,7 @@ html {
     padding: 24px 60px;
     border-style: none;
     border-radius: 80px;
-    background-color: var(--darkLightGreen);
+    background-color: var(--darkGreen);
     -webkit-transition: color 300ms ease, box-shadow 300ms ease,
       background-color 300ms ease, -webkit-transform 300ms ease;
     transition: color 300ms ease, box-shadow 300ms ease,
@@ -5299,9 +5298,10 @@ html {
     bottom: 24px;
   }
   
+  /* paddingler 32px idi */
   .header {
-    padding-top: 32px;
-    padding-bottom: 32px;
+    padding-top: 10px;  
+    padding-bottom: 10px;
     background-color: #F0EFEB;
   }
   
@@ -5365,6 +5365,11 @@ html {
     transition: opacity 300ms ease;
   }
 
+  .opacity {
+    -webkit-transition: opacity 300ms ease;
+    transition: opacity 300ms ease;
+  }
+
   .opacity:hover {
     opacity: 0.6;
   }
@@ -5388,6 +5393,7 @@ html {
   
   .footer-logo-container {
     margin-bottom: 27px;
+    margin-left: 40px;
   }
   
   .footer-nav {
@@ -5418,6 +5424,7 @@ html {
   .footer-nav-item {
     margin-bottom: 24px;
     line-height: 1.2em;
+    transition: opacity 300ms ease;
   }
   
   .section {
@@ -7424,14 +7431,15 @@ html {
   }
   
   .footer-link {
-    -webkit-transition: color 350ms ease;
-    transition: color 350ms ease;
+    -webkit-transition: color 300ms ease;
+    transition: color 300ms ease;
     color: #777990;
     text-decoration: none;
   }
   
   .footer-link:hover {
-    color: var(-var(--textColor));
+    color: var(--darkGreen);
+    text-decoration: none;
   }
   
   .contact-link-wrapper {
@@ -7451,7 +7459,8 @@ html {
   
   .contact-link-wrapper:hover {
     opacity: 0.6;
-    color: #4e4b66;
+    color: var(--darkGreen);
+    text-decoration: none;
   }
   
   .footer-social-link {
@@ -8353,8 +8362,8 @@ html {
     .header {
       position: relative;
       z-index: 99;
-      padding-top: 27px;
-      padding-bottom: 27px;
+      padding-top: 10px;
+      padding-bottom: 10px;
     }
   
     .header-navigation {
@@ -9334,8 +9343,8 @@ html {
     }
   
     .header {
-      padding-top: 20px;
-      padding-bottom: 20px;
+      padding-top: 10px;
+      padding-bottom: 10px;
     }
   
     .nav-item-wrapper {
@@ -10296,12 +10305,12 @@ html {
     }
   
     .header {
-      padding-top: 15px;
-      padding-bottom: 15px;
+      padding-top: 10px;
+      padding-bottom: 10px;
     }
   
     .header-logo {
-      width: 106px;
+      width: 90px;
     }
   
     .nav-item-wrapper {

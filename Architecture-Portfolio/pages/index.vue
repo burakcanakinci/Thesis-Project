@@ -5,6 +5,7 @@
     <MyServices />
     <Projects />
     <Aboutme />
+    <Footer />
   </div>
 </template>
 
