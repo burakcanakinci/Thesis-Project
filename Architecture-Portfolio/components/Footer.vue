@@ -9,7 +9,37 @@
                        transform-style: preserve-3d;
                        opacity: 1;"
             >
-                <div class="footer-main-container">
+                <div
+                    id="w-node-e8d48131-b634-f991-cac4-38c5477a9b0c-ae2f46c5"
+                    class="footer-menu-wrapper first pages-down "
+                >
+                    <div class="title h4-size footer-menu">Pages</div>
+                    <div class="footer-menu-content pages">
+                        <ul role="list" class="footer-nav w-list-unstyled">
+                            <li class="footer-nav-item opacity">
+                                <a href="/" aria-current="page" class="footer-link w--current">Home</a>
+                            </li>
+                            <li class="footer-nav-item opacity">
+                                <a href="/about" class="footer-link">About</a>
+                            </li>
+                            <li class="footer-nav-item opacity">
+                                <a href="/contact" class="footer-link">Contact</a>
+                            </li>
+                            <li class="footer-nav-item opacity">
+                                <a href="/portfolio" class="footer-link">Portfolio</a>
+                            </li>
+                        </ul>
+                        <ul role="list" class="footer-nav last w-list-unstyled">
+                            
+                        </ul>
+                    </div>
+                </div>
+                <div class="footer-main-container"
+                     style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
+                       rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
+                       transform-style: preserve-3d;
+                       opacity: 1;"
+                >
                     <a href="/"
                        aria-current="page"
                        class="footer-logo-container w-inline-block w--current">
@@ -75,32 +105,36 @@
                         </a>
                     </div>
                 </div>
-                <div class="footer-nav-wrapper">
-                    <div
-                        id="w-node-e8d48131-b634-f991-cac4-38c5477a9b0c-ae2f46c5"
-                        class="footer-menu-wrapper first"
-                    >
-                        <div class="title h4-size footer-menu">Pages</div>
-                        <div class="footer-menu-content pages">
-                            <ul role="list" class="footer-nav w-list-unstyled">
-                                <li class="footer-nav-item opacity">
-                                    <a href="/" aria-current="page" class="footer-link w--current">Home</a>
-                                </li>
-                                <li class="footer-nav-item opacity">
-                                    <a href="/about" class="footer-link">About</a>
-                                </li>
-                                <li class="footer-nav-item opacity">
-                                    <a href="/contact" class="footer-link">Contact</a>
-                                </li>
-                                <li class="footer-nav-item opacity">
-                                    <a href="/portfolio" class="footer-link">Portfolio</a>
-                                </li>
-                            </ul>
-                            <ul role="list" class="footer-nav last w-list-unstyled">
-                                
-                            </ul>
-                        </div>
+                <div class="footer-div">
+                <div
+                    id="w-node-e8d48131-b634-f991-cac4-38c5477a9b0c-ae2f46c5"
+                    class="footer-menu-wrapper2 first pages-up hide"
+                >
+                    <div class="title h4-size footer-menu">Pages</div>
+                    <div class="footer-menu-content pages">
+                        <ul role="list" class="footer-nav w-list-unstyled">
+                            <li class="footer-nav-item opacity">
+                                <a href="/" aria-current="page" class="footer-link w--current">Home</a>
+                            </li>
+                            <li class="footer-nav-item opacity">
+                                <a href="/about" class="footer-link">About</a>
+                            </li>
+                            <li class="footer-nav-item opacity">
+                                <a href="/contact" class="footer-link">Contact</a>
+                            </li>
+                            <li class="footer-nav-item opacity">
+                                <a href="/portfolio" class="footer-link">Portfolio</a>
+                            </li>
+                        </ul>
+                        <ul role="list" class="footer-nav last w-list-unstyled">
+                            
+                        </ul>
                     </div>
+                </div>
+                
+                <div class="footer-nav-wrapper">
+                    
+                    
                     <div class="footer-menu-wrapper contact-links">
                         <div class="title h4-size footer-menu">Contact Me</div>
                         <div class="footer-menu-content contact-links">
@@ -130,6 +164,7 @@
                             </ul>
                         </div>
                     </div>
+                </div>
                 </div>
             </div>
             <!-- <div

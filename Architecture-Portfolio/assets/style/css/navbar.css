@@ -10,14 +10,15 @@ html {
   }
 
   :root {
-    --textColor: #14142b;
+    --textColor: #24211C;
+    --2xLightGray: #FBFAF9;
     --lightGray: #F0EFEB;
     --mediumGray: #A09881;
     --darkGray: #807362;
     --darkGreen: #6B705C;
     --mediumGreen: #A5A58D;
     --lightGreen: #B7B7A4;
-    --lightCream: #FFF1E6;
+    --lightCream: #FFFAF6;
     --mediumCream: #FFE8D6;
     --lightBrown: #DDBEA9;
     --mediumBrown: #CB997E;
@@ -66,6 +67,7 @@ html {
   a:hover {
     outline: 0;
     color: var(--darkGreen);
+    text-decoration: none;
   }
   abbr[title] {
     border-bottom: 1px dotted;
@@ -797,6 +799,9 @@ html {
     display: none !important;
   }
   @media screen and (max-width: 991px) {
+    .pages-up{
+      display: flex;
+    }
     .w-container {
       max-width: 728px;
     }
@@ -848,7 +853,12 @@ html {
       right: auto;
     }
   }
+  
   @media screen and (max-width: 767px) {
+
+    .pages-up{
+      display: flex;
+    }
     .w-hidden-main {
       display: inherit !important;
     }
@@ -906,6 +916,13 @@ html {
     }
   }
   @media screen and (max-width: 479px) {
+    .footer-menu-wrapper2 {
+      margin-top: 100px;
+      margin-left: 25px;
+    }
+    .pages-up {
+      
+    }
     .w-container {
       max-width: none;
     }
@@ -1566,6 +1583,28 @@ html {
     overflow: hidden;
   }
   @media (min-width: 768px) {
+    .divide {
+      display: block;
+      margin-left: 50px;
+    }
+    .footer-div {
+      display: flex;
+    }
+    .footer-menu-wrapper{
+      display: block;
+      width: 100%;
+      float: right;
+      margin-top: 100px;
+      margin-left: 100px;
+    }
+    .footer-menu-wrapper2 {
+      margin-top: 100px;
+      margin-left: 200px;
+    }
+    .pages-up {
+      display: block;
+    }
+  
     .w-lightbox-content {
       height: 96vh;
       margin-top: 2vh;
@@ -1923,6 +1962,9 @@ html {
     display: block;
   }
   @media screen and (max-width: 479px) {
+    .footer-div {
+      display: flex;
+    }
     .w-tab-link {
       display: block;
     }
@@ -4520,6 +4562,9 @@ html {
   }
   
   @media screen and (max-width: 479px) {
+    .footer-div {
+      display: flex;
+    }
     .w-commerce-commercecartcontainerwrapper--cartType-modal {
       -webkit-box-orient: horizontal;
       -webkit-box-direction: normal;
@@ -4730,7 +4775,7 @@ html {
     font-size: 18px;
     line-height: 1.333em;
     font-weight: 700;
-  }var(--textColor)
+  }
   h6 {
     margin-top: 0px;
     margin-bottom: 10px;
@@ -4748,11 +4793,6 @@ html {
     -webkit-transition: color 300ms ease;
     transition: color 300ms ease;   
     color: var(--textColor);
-    text-decoration: underline;
-  }
-  
-  a:hover {
-    
   }
   
   ul {
@@ -6967,8 +7007,8 @@ html {
     min-height: 116%;
     margin-top: -40px;
     border-radius: 24px;
-    background-color: var(--mediumCream);
-    opacity: 0.15;
+    background-color: var(--2xLightGray);
+
   }
   
   .bg.resume-square {
@@ -7389,10 +7429,13 @@ html {
     justify-content: space-between;
   }
   
+  /* Logo div */
   .footer-main-container {
-    width: 30%;
-    max-width: 333px;
-    margin-right: 48px;
+    display: block;
+      width: 100%;
+      max-width: 550px;
+      margin-right: auto;
+      margin-left: auto
   }
   
   .footer-nav-wrapper {
@@ -7400,8 +7443,8 @@ html {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    width: 70%;
-    max-width: 822px;
+    /* width: 70%; */
+    max-width: 150px;
     -webkit-box-pack: justify;
     -webkit-justify-content: space-between;
     -ms-flex-pack: justify;
@@ -7410,6 +7453,12 @@ html {
   
   .footer-menu-wrapper.first {
     width: 35%;
+  }
+  .hide{
+    display:none;
+  }
+  .show{
+    display:block;
   }
   
   .footer-menu-content {
@@ -8281,7 +8330,46 @@ html {
     font-weight: 700;
   }
   
+  /* @media screen and (max-width: 871px) {
+    .footer-menu-wrapper{
+      display: block;
+    }
+    .pages-up {
+      display: block;
+    }
+  } */
+
+  @media screen and (max-width: 1024px) {
+    .footer-div {
+      display: flex;
+    }
+    .footer-main-container {
+      display: block;
+      width: 100%;
+      max-width: 450px;
+      margin-right: auto;
+      margin-left: auto;
+    }
+    /* .pages-down {
+      display: none;
+    } */
+    .footer-menu-wrapper {
+      margin-left: 50px;
+    }
+  }
+
   @media screen and (max-width: 991px) {
+    .footer-div {
+      display: flex;
+    }
+    .footer-menu-wrapper2 {
+      display: block;
+    }
+
+    .pages-down {
+      display: none;
+    }
+
     h1 {
       margin-bottom: 20px;
       font-size: 54px;
@@ -8988,11 +9076,13 @@ html {
       flex-direction: column;
     }
   
+    /* 991 px @media  */
     .footer-main-container {
-      width: auto;
-      max-width: 60%;
-      margin-right: 0px;
-      margin-bottom: 60px;
+      display: block;
+      width: 100%;
+      max-width: 225px;
+      margin-right: auto;
+      margin-left: auto
     }
   
     .footer-nav-wrapper {
@@ -9219,6 +9309,10 @@ html {
   }
   
   @media screen and (max-width: 767px) {
+
+    .pages-up {
+      display: block;
+    }
     h1 {
       margin-bottom: 15px;
       font-size: 44px;
@@ -10009,8 +10103,14 @@ html {
       grid-template-columns: 1fr 1fr;
     }
   
+    /* 767px @media */
     .footer-main-container {
-      max-width: 100%;
+      display: block;
+      width: 100%;
+      max-width: 225px;
+      margin-right: auto;
+      margin-left: auto;
+      
     }
   
     .footer-nav-wrapper {
@@ -10211,6 +10311,14 @@ html {
   }
   
   @media screen and (max-width: 479px) {
+
+    .pages-up {
+      display: block;
+    }
+
+    .pages-down {
+      display: none;
+    }
     h1 {
       margin-bottom: 10px;
       font-size: 38px;
@@ -10872,8 +10980,11 @@ html {
       width: 50%;
     }
   
+    /* email div */
     .footer-menu-wrapper.contact-links {
       width: 100%;
+      margin-left: auto;
+      margin-right: auto;
     }
   
     .footer-menu-content {
@@ -11197,5 +11308,11 @@ html {
     font-weight: 500;
     font-style: normal;
     font-display: swap;
+  }
+  @media screen and (max-width: 320px) {
+    .footer-menu-wrapper2 {
+      margin-top: 100px;
+      margin-left: 10px;
+    }
   }
   
