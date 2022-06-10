@@ -1595,7 +1595,7 @@ html {
       width: 100%;
       float: right;
       margin-top: 100px;
-      margin-left: 100px;
+      /* margin-left: 100px; */
     }
     .footer-menu-wrapper2 {
       margin-top: 100px;
@@ -4562,6 +4562,13 @@ html {
   }
   
   @media screen and (max-width: 479px) {
+    .footer-menu-wrapper{
+      display: block;
+      width: 100%;
+      float: right;
+      margin-top: 100px;
+      margin-left: 100px;
+    }
     .footer-div {
       display: flex;
     }

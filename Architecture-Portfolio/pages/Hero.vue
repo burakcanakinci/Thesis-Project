@@ -32,11 +32,8 @@
                 transform-style: preserve-3d;"
                 class="image-wrapper hero-image">
               <img
-                src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6112af58d6338c4181aaed8c_hero-image-personal-x-template.png"
-                srcset="
-                  https://assets.website-files.com/61129bb2ecedf803564c68ec/6112af58d6338c4181aaed8c_hero-image-personal-x-template-p-500.png  500w,
-                  https://assets.website-files.com/61129bb2ecedf803564c68ec/6112af58d6338c4181aaed8c_hero-image-personal-x-template.png       1184w
-                "
+                src="~/assets/image/Picture3.png"
+                
                 sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, (max-width: 991px) 472px, (max-width: 1439px) 47vw, 588px"
                 alt="Product Designer - You X Webflow Template"
                 class="image hero-image"

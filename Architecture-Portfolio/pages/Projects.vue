@@ -12,7 +12,7 @@
           class="top-content portfolio-top-content"
         >
           <div class="split-content portfolio-left">
-            <h2 class="title portfolio">Take a look at my design portfolio</h2>
+            <h2 class="title portfolio">Take a look at my projects</h2>
             <img
               src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6112bdfb2b341387dfa368b4_portfolio-underline-personal-x-template.svg"
               alt=""
@@ -23,10 +23,10 @@
         <div
           data-w-id="69f75c50-8619-7ebb-912d-114e45cb4c1a"
           style="
-            transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg)
+              transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg)
               rotateY(0deg) rotateZ(0deg) skew(0deg);
-            opacity: 1;
-            transform-style: preserve-3d;
+              opacity: 1;
+              transform-style: preserve-3d;
           "
           class="home-portfolio-slider-main-wrapper"
         >
@@ -59,17 +59,15 @@
                   <div role="list" class="w-dyn-items">
                     <div role="listitem" class="w-dyn-item">
                       <a
-                        href="/portfolio-project/todo-list-mobile-app-redesign"
+                        href="
+                        "
                         class="card home-portfolio-card w-inline-block"
                         ><div class="image-wrapper portfolio-card">
                           <img
-                            src="https://assets.website-files.com/61129bb2ecedf8658b4c6911/6112cd9d5b27385cbcd7218d_portfolio-1-featured-image-personal-x-template.jpg"
+                            src="~/assets/image/dunyagoz.jpg"
                             alt="Todo List Mobile App Redesign"
                             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-                            srcset="
-                              https://assets.website-files.com/61129bb2ecedf8658b4c6911/6112cd9d5b27385cbcd7218d_portfolio-1-featured-image-personal-x-template-p-1080.jpeg 1080w,
-                              https://assets.website-files.com/61129bb2ecedf8658b4c6911/6112cd9d5b27385cbcd7218d_portfolio-1-featured-image-personal-x-template.jpg         1150w
-                            "
+                            
                             class="image portfolio-card"
                           />
                         </div>
@@ -77,15 +75,14 @@
                           class="split-content portfolio-card-bottom-content"
                         >
                           <h3 class="title home-portfolio-card">
-                            Todo List Mobile App Redesign
+                           <NuxtLink to="/slug">çebitaş</NuxtLink>
                           </h3>
                           <p class="paragraph home-portfolio-card">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Lectus mattis nunc aliquam tincidunt est non
-                            dolor sit consectuetur do.
+                            <!-- Bu projede falan filan olmuştur ama şu fotoların
+                            size ları düzeltilmesi gerek. -->
                           </p>
                           <div class="hc-flex read-case-study">
-                            <div>Read case study</div>
+                            <div>Take a look</div>
                             <img
                               src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
                               loading="eager"
@@ -109,7 +106,7 @@
                   <div role="list" class="w-dyn-items" aria-hidden="true">
                     <div role="listitem" class="w-dyn-item" aria-hidden="true">
                       <a
-                        href="/portfolio-project/analytics-dashboard-design"
+                        href=""
                         class="card home-portfolio-card w-inline-block"
                         tabindex="-1"
                         aria-hidden="true"
@@ -118,13 +115,10 @@
                           aria-hidden="true"
                         >
                           <img
-                            src="https://assets.website-files.com/61129bb2ecedf8658b4c6911/6112cca34f769f7534c0c044_portfolio-2-featured-image-personal-x-template.jpg"
+                            src="~/assets/image/Picture2.jpg"
                             alt="Analytics Dashboard Design"
                             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-                            srcset="
-                              https://assets.website-files.com/61129bb2ecedf8658b4c6911/6112cca34f769f7534c0c044_portfolio-2-featured-image-personal-x-template-p-1080.jpeg 1080w,
-                              https://assets.website-files.com/61129bb2ecedf8658b4c6911/6112cca34f769f7534c0c044_portfolio-2-featured-image-personal-x-template.jpg         1150w
-                            "
+                            
                             class="image portfolio-card"
                             aria-hidden="true"
                             style="
@@ -143,21 +137,20 @@
                             class="title home-portfolio-card"
                             aria-hidden="true"
                           >
-                            Analytics Dashboard Design
+                             <NuxtLink to="/slug">Dünya Göz Hospital</NuxtLink>
                           </h3>
                           <p
                             class="paragraph home-portfolio-card"
                             aria-hidden="true"
                           >
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Lectus mattis nunc aliquam tincidunt est non
-                            dolor sit consectuetur do.
+                            <!-- Bu projede biz kaza yaptık ve benim en sevdiğim lego helikopterim kırıldı.
+                            Kalbim kırık. -->
                           </p>
                           <div
                             class="hc-flex read-case-study"
                             aria-hidden="true"
                           >
-                            <div aria-hidden="true">Read case study</div>
+                            <div aria-hidden="true">Take a look</div>
                             <img
                               src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
                               loading="eager"
@@ -188,7 +181,7 @@
                   <div role="list" class="w-dyn-items" aria-hidden="true">
                     <div role="listitem" class="w-dyn-item" aria-hidden="true">
                       <a
-                        href="/portfolio-project/task-manager-web-app-design"
+                        href=""
                         class="card home-portfolio-card w-inline-block"
                         tabindex="-1"
                         aria-hidden="true"
@@ -218,7 +211,7 @@
                             class="title home-portfolio-card"
                             aria-hidden="true"
                           >
-                            Task Manager Web App Design
+                             <NuxtLink to="/slug">çebitaş</NuxtLink>
                           </h3>
                           <p
                             class="paragraph home-portfolio-card"
@@ -232,7 +225,7 @@
                             class="hc-flex read-case-study"
                             aria-hidden="true"
                           >
-                            <div aria-hidden="true">Read case study</div>
+                            <div aria-hidden="true">Take a look</div>
                             <img
                               src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
                               loading="eager"
@@ -257,7 +250,7 @@
                   <div role="list" class="w-dyn-items" aria-hidden="true">
                     <div role="listitem" class="w-dyn-item" aria-hidden="true">
                       <a
-                        href="/portfolio-project/file-manager-mobile-app-design"
+                        href=""
                         class="card home-portfolio-card w-inline-block"
                         tabindex="-1"
                         aria-hidden="true"
@@ -299,7 +292,7 @@
                             class="hc-flex read-case-study"
                             aria-hidden="true"
                           >
-                            <div aria-hidden="true">Read case study</div>
+                            <div aria-hidden="true">Take a look</div>
                             <img
                               src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
                               loading="eager"
@@ -324,7 +317,7 @@
                   <div role="list" class="w-dyn-items" aria-hidden="true">
                     <div role="listitem" class="w-dyn-item" aria-hidden="true">
                       <a
-                        href="/portfolio-project/todo-list-mobile-app-redesign"
+                        href=""
                         class="card home-portfolio-card w-inline-block"
                         tabindex="-1"
                         aria-hidden="true"
@@ -366,7 +359,7 @@
                             class="hc-flex read-case-study"
                             aria-hidden="true"
                           >
-                            <div aria-hidden="true">Read case study</div>
+                            <div aria-hidden="true">Take a look</div>
                             <img
                               src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
                               loading="eager"
@@ -391,7 +384,7 @@
                   <div role="list" class="w-dyn-items" aria-hidden="true">
                     <div role="listitem" class="w-dyn-item" aria-hidden="true">
                       <a
-                        href="/portfolio-project/analytics-dashboard-design"
+                        href=""
                         class="card home-portfolio-card w-inline-block"
                         tabindex="-1"
                         aria-hidden="true"
@@ -433,7 +426,7 @@
                             class="hc-flex read-case-study"
                             aria-hidden="true"
                           >
-                            <div aria-hidden="true">Read case study</div>
+                            <div aria-hidden="true">Take a look</div>
                             <img
                               src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
                               loading="eager"
@@ -458,7 +451,7 @@
                   <div role="list" class="w-dyn-items" aria-hidden="true">
                     <div role="listitem" class="w-dyn-item" aria-hidden="true">
                       <a
-                        href="/portfolio-project/task-manager-web-app-design"
+                        href=""
                         class="card home-portfolio-card w-inline-block"
                         tabindex="-1"
                         aria-hidden="true"
@@ -502,7 +495,7 @@
                             class="hc-flex read-case-study"
                             aria-hidden="true"
                           >
-                            <div aria-hidden="true">Read case study</div>
+                            <div aria-hidden="true">Take a look</div>
                             <img
                               src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
                               loading="eager"
@@ -527,7 +520,7 @@
                   <div role="list" class="w-dyn-items" aria-hidden="true">
                     <div role="listitem" class="w-dyn-item" aria-hidden="true">
                       <a
-                        href="/portfolio-project/file-manager-mobile-app-design"
+                        href=""
                         class="card home-portfolio-card w-inline-block"
                         tabindex="-1"
                         aria-hidden="true"
@@ -569,7 +562,7 @@
                             class="hc-flex read-case-study"
                             aria-hidden="true"
                           >
-                            <div aria-hidden="true">Read case study</div>
+                            <div aria-hidden="true">Take a look</div>
                             <img
                               src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
                               loading="eager"
@@ -594,7 +587,7 @@
                   <div role="list" class="w-dyn-items" aria-hidden="true">
                     <div role="listitem" class="w-dyn-item" aria-hidden="true">
                       <a
-                        href="/portfolio-project/todo-list-mobile-app-redesign"
+                        href=""
                         class="card home-portfolio-card w-inline-block"
                         tabindex="-1"
                         aria-hidden="true"
@@ -636,7 +629,7 @@
                             class="hc-flex read-case-study"
                             aria-hidden="true"
                           >
-                            <div aria-hidden="true">Read case study</div>
+                            <div aria-hidden="true">Take a look</div>
                             <img
                               src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
                               loading="eager"
@@ -661,7 +654,7 @@
                   <div role="list" class="w-dyn-items" aria-hidden="true">
                     <div role="listitem" class="w-dyn-item" aria-hidden="true">
                       <a
-                        href="/portfolio-project/analytics-dashboard-design"
+                        href=""
                         class="card home-portfolio-card w-inline-block"
                         tabindex="-1"
                         aria-hidden="true"
@@ -703,7 +696,7 @@
                             class="hc-flex read-case-study"
                             aria-hidden="true"
                           >
-                            <div aria-hidden="true">Read case study</div>
+                            <div aria-hidden="true">Take a look</div>
                             <img
                               src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
                               loading="eager"
@@ -728,7 +721,7 @@
                   <div role="list" class="w-dyn-items" aria-hidden="true">
                     <div role="listitem" class="w-dyn-item" aria-hidden="true">
                       <a
-                        href="/portfolio-project/task-manager-web-app-design"
+                        href=""
                         class="card home-portfolio-card w-inline-block"
                         tabindex="-1"
                         aria-hidden="true"
@@ -772,7 +765,7 @@
                             class="hc-flex read-case-study"
                             aria-hidden="true"
                           >
-                            <div aria-hidden="true">Read case study</div>
+                            <div aria-hidden="true">Take a look</div>
                             <img
                               src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
                               loading="eager"
@@ -797,7 +790,7 @@
                   <div role="list" class="w-dyn-items" aria-hidden="true">
                     <div role="listitem" class="w-dyn-item" aria-hidden="true">
                       <a
-                        href="/portfolio-project/file-manager-mobile-app-design"
+                        href=""
                         class="card home-portfolio-card w-inline-block"
                         tabindex="-1"
                         aria-hidden="true"
@@ -839,7 +832,7 @@
                             class="hc-flex read-case-study"
                             aria-hidden="true"
                           >
-                            <div aria-hidden="true">Read case study</div>
+                            <div aria-hidden="true">Take a look</div>
                             <img
                               src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
                               loading="eager"
