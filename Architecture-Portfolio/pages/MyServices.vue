@@ -129,9 +129,6 @@
                 "
                 class="mg-top-80px center-content"
               >
-                <a href="/contact" class="button-primary w-button"
-                  >Get in touch</a
-                >
               </div>
             </div>
           </div>

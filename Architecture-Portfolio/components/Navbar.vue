@@ -7,8 +7,9 @@
     data-easing="ease"
     data-easing2="ease"
     role="banner"
-    class="header w-nav"
+    class="header w-nav navbar-scroll-animation"
     style="opacity: 1"
+    id="navigation-bar"
   >
     <div class="container-default w-container">
       <div class="header-wrapper">
@@ -22,19 +23,19 @@
               src="~/assets/image/Logo.png"
               alt="You X Webflow Template - Logo"
               class="header-logo"
-          /></a>
+          /><NuxtLink to="/"></NuxtLink></a>
         </div>
         <div class="split-content header-center">
           <nav role="navigation" class="nav-menu w-nav-menu">
             <ul role="list" class="header-navigation">
               <li class="nav-item-wrapper">
-                <a href="/" aria-current="page" class="nav-link w--current opacity">Home</a>
+                <a><NuxtLink aria-current="page" class="nav-link w--current opacity" to="/">Home</NuxtLink></a>
               </li>
               <li class="nav-item-wrapper">
-                <a href="/about" class="nav-link opacity">About</a>
+                <a><NuxtLink class="nav-link opacity" to="/AboutPage">About</NuxtLink></a>
               </li>
               <li class="nav-item-wrapper">
-                <a href="/portfolio" class="nav-link opacity">Portfolio</a>
+                <a href="#aboutMe" class="nav-link opacity">Portfolio</a>
               </li>
               <li class="nav-item-wrapper">
                 <div
@@ -53,14 +54,14 @@
                     role="button"
                     tabindex="0"
                   >
-                    <div class="nav-link opacity"><NuxtLink to="/ProjectPage">Projects</NuxtLink></div>
+                    <div class="nav-link opacity"><NuxtLink to="/MoreProjects">Projects</NuxtLink></div>
                    
                   </div>
                 </div>
               </li>
             </ul>
             <a
-              href="mailto:john@you.com"
+              href="mailto:gulcatay.mimar@gmail.com"
               class="email-header-wrapper show-mobile w-inline-block"
               ><img
                 src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6112a4fa0865622bd03376a4_email-icon-personal-x-template.svg"
@@ -94,7 +95,7 @@
         </div>
         <div class="split-content header-left">
           <a
-            href="mailto:john@you.com"
+            href="mailto:gulcatay.mimar@gmail.com"
             class="email-header-wrapper w-inline-block"
             ><img
               src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6112a4fa0865622bd03376a4_email-icon-personal-x-template.svg"

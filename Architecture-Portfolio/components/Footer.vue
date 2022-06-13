@@ -20,13 +20,13 @@
                                 <a href="/" aria-current="page" class="footer-link w--current">Home</a>
                             </li>
                             <li class="footer-nav-item opacity">
-                                <a href="/about" class="footer-link">About</a>
+                                <a href="/aboutPage" class="footer-link">About</a>
                             </li>
-                            <li class="footer-nav-item opacity">
+                            <!-- <li class="footer-nav-item opacity">
                                 <a href="/contact" class="footer-link">Contact</a>
-                            </li>
+                            </li> -->
                             <li class="footer-nav-item opacity">
-                                <a href="/portfolio" class="footer-link">Portfolio</a>
+                                <a href="#aboutMe" class="footer-link">Portfolio</a>
                             </li>
                         </ul>
                         <ul role="list" class="footer-nav last w-list-unstyled">

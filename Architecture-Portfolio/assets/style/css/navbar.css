@@ -920,6 +920,18 @@ html {
       margin-top: 100px;
       margin-left: 25px;
     }
+    .footer-div {
+      display: flex;
+      margin-left: 50px;
+    }
+    .footer-menu-wrapper{
+      display: block;
+      width: 100%;
+      float: right;
+      margin-top: 100px;
+      margin-left: 100px;
+    }
+    
     .pages-up {
       
     }
@@ -1158,6 +1170,20 @@ html {
     right: 0;
     height: 100%;
     white-space: nowrap;
+  }
+  .flex-direction-column {
+    display: flex;
+    flex-direction: column;
+  }
+  .flex-direction-row {
+    display: flex;
+    flex-direction: row;
+  }
+  .more-projects-margin-83 {
+    margin-left: 83px;
+  }
+  .more-projects-width {
+    width: 785px;
   }
   .w-slide {
     position: relative;
@@ -1582,6 +1608,12 @@ html {
   .w-lightbox-noscroll {
     overflow: hidden;
   }
+  @media (max-width: 769px) {
+    .footer-menu-wrapper {
+      margin-top: 100px;
+      
+    }
+  }
   @media (min-width: 768px) {
     .divide {
       display: block;
@@ -1589,6 +1621,7 @@ html {
     }
     .footer-div {
       display: flex;
+      margin-left: 30px;
     }
     .footer-menu-wrapper{
       display: block;
@@ -1769,6 +1802,7 @@ html {
     position: relative;
     background: #dddddd;
     z-index: 1000;
+    /* transition: top 0.3s; */
   }
   .w-nav:before,
   .w-nav:after {
@@ -1962,9 +1996,7 @@ html {
     display: block;
   }
   @media screen and (max-width: 479px) {
-    .footer-div {
-      display: flex;
-    }
+    
     .w-tab-link {
       display: block;
     }
@@ -4562,16 +4594,7 @@ html {
   }
   
   @media screen and (max-width: 479px) {
-    .footer-menu-wrapper{
-      display: block;
-      width: 100%;
-      float: right;
-      margin-top: 100px;
-      margin-left: 100px;
-    }
-    .footer-div {
-      display: flex;
-    }
+    
     .w-commerce-commercecartcontainerwrapper--cartType-modal {
       -webkit-box-orient: horizontal;
       -webkit-box-direction: normal;
@@ -5350,6 +5373,11 @@ html {
     padding-top: 10px;  
     padding-bottom: 10px;
     background-color: #F0EFEB;
+    overflow-anchor: none;
+  }
+
+  .navbar-scroll-animation {
+    transition: top 0.3s;
   }
   
   .header-logo {
@@ -5372,7 +5400,7 @@ html {
     display: -ms-flexbox;
     display: flex;
     margin-bottom: 0px;
-    padding-left: 0px;
+    padding-left: 150px;
     -webkit-box-pack: end;
     -webkit-justify-content: flex-end;
     -ms-flex-pack: end;
@@ -5422,7 +5450,7 @@ html {
   }
   
   .footer {
-    padding-top: 120px;
+    padding-top: 20px;
     border-top: 1px solid #d9dbe9;
     background-color: #fff;
   }
@@ -6051,6 +6079,7 @@ html {
   
   .title.portfolio {
     margin-bottom: 0px;
+    margin-left: -97px;
   }
   
   .title.home-portfolio-card {
@@ -7099,6 +7128,8 @@ html {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
+    padding-right: 90px;
+    padding-left: 90px;
   }
   
   .top-content.resume-top-card-content {
@@ -7442,7 +7473,8 @@ html {
       width: 100%;
       max-width: 550px;
       margin-right: auto;
-      margin-left: auto
+      margin-left: auto;
+      margin-top: 100px;
   }
   
   .footer-nav-wrapper {
@@ -7451,7 +7483,7 @@ html {
     display: -ms-flexbox;
     display: flex;
     /* width: 70%; */
-    max-width: 150px;
+    max-width: 175px;
     -webkit-box-pack: justify;
     -webkit-justify-content: space-between;
     -ms-flex-pack: justify;
@@ -8346,7 +8378,7 @@ html {
     }
   } */
 
-  @media screen and (max-width: 1024px) {
+  @media screen and (min-width: 1024px) {
     .footer-div {
       display: flex;
     }
@@ -8361,13 +8393,15 @@ html {
       display: none;
     } */
     .footer-menu-wrapper {
-      margin-left: 50px;
+      /* margin-left: 50px; */
     }
   }
 
   @media screen and (max-width: 991px) {
+    
     .footer-div {
       display: flex;
+      
     }
     .footer-menu-wrapper2 {
       display: block;
@@ -9316,6 +9350,15 @@ html {
   }
   
   @media screen and (max-width: 767px) {
+    .footer-menu-wrapper2 {
+      margin-top: 100px;
+      margin-left: 130px;
+    }
+    .footer-div {
+      display: flex;
+      margin-right: 130px;
+      margin-left: -40px;
+    }
 
     .pages-up {
       display: block;
@@ -10318,7 +10361,7 @@ html {
   }
   
   @media screen and (max-width: 479px) {
-
+    
     .pages-up {
       display: block;
     }
@@ -11316,10 +11359,3 @@ html {
     font-style: normal;
     font-display: swap;
   }
-  @media screen and (max-width: 320px) {
-    .footer-menu-wrapper2 {
-      margin-top: 100px;
-      margin-left: 10px;
-    }
-  }
-  

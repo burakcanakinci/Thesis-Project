@@ -4,8 +4,8 @@
         <div
           data-w-id="958960c1-23c4-b448-27ed-e4d2345aee47"
           style="
-            transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg)
-              rotateY(0deg) rotateZ(0deg) skew(0deg);
+            transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
+            rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
             opacity: 1;
             transform-style: preserve-3d;
           "
@@ -75,7 +75,7 @@
                           class="split-content portfolio-card-bottom-content"
                         >
                           <h3 class="title home-portfolio-card">
-                           <NuxtLink to="/slug">çebitaş</NuxtLink>
+                           <NuxtLink to="/slug">Çebitaş</NuxtLink>
                           </h3>
                           <p class="paragraph home-portfolio-card">
                             <!-- Bu projede falan filan olmuştur ama şu fotoların

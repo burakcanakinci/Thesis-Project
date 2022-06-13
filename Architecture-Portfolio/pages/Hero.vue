@@ -11,7 +11,7 @@
                 transform-style: preserve-3d;"
               class="split-content hero-left"
             >
-              <h3 class="title subtitle">Hey, I’m Gülçatay</h3>
+              <h3 class="title subtitle">Hello, I’m Gülçatay</h3>
               <h1 class="title home-hero">
                  I enjoy designing homes and falans filans
               </h1>
@@ -20,7 +20,7 @@
                 loading="eager"
                 class="image hero-underline">
               <div>
-                <a href="/contact" class="button-primary w-button">Get in touch</a
+                <a href="mailto:gulcatay.mimar@gmail.com" class="button-primary w-button">Get in touch</a
                 >
               </div>
             </div>

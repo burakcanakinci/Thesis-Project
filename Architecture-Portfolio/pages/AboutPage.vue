@@ -395,7 +395,7 @@
             "
             class="container-small text-center my-skills"
           >
-            <h2 class="title my-skills">My skills &amp; software</h2>
+            <h2 class="title my-skills">My Skills</h2>
             <img
               src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61140e796ab6559a19081f84_skills-underline-personal-x-template.svg"
               loading="lazy"
@@ -403,9 +403,8 @@
               class="image skills-underline"
             />
             <p class="paragraph">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus
-              mattis nunc aliquam tincidunt est non. Viverra
-              <span class="text-no-wrap">nec eu.</span>
+              
+              <span class="text-no-wrap"> </span>
             </p>
           </div>
           <div class="_3-column-grid skills-grid">
