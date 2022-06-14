@@ -158,7 +158,7 @@
                                              alt="Phone Icon - You X Webflow Template"
                                              class="image contact-link-icon footer-icon"
                                         >
-                                        <div>(415) 200 - 8613</div>
+                                        <div>(+359) 89 4423084</div>
                                     </a>
                                 </li>
                             </ul>
