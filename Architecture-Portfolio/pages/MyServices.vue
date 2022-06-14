@@ -11,11 +11,10 @@
                 "
                 class="container-small text-center"
               >
-                <h2>My services</h2>
+                <h2>My Trophies</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Lectus mattis nunc aliquam tincidunt est non. Viverra
-                  <span class="text-no-wrap">nec eu.</span>
+                 
+                  <span class="text-no-wrap"></span>
                 </p>
               </div>
               <div class="services-main-wrapper">

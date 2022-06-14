@@ -61,13 +61,13 @@
                     <div role="listitem" class="w-dyn-item more-projects-width">
                       <a class="card home-portfolio-card w-inline-block flex-direction-row">
                         <div class="image-wrapper portfolio-card">
+                          <NuxtLink class="image portfolio-card" to="/slug">
                           <img
                             src="~/assets/image/dunyagoz.jpg"
                             alt="Todo List Mobile App Redesign"
                             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-                            
-                            class="image portfolio-card"
                           />
+                          </NuxtLink>
                         </div>
                         <div
                           class="split-content portfolio-card-bottom-content more-projects-margin-83"
@@ -80,7 +80,7 @@
                             size ları düzeltilmesi gerek. -->
                           </p>
                           <div class="hc-flex read-case-study">
-                            <div>Take a look</div>
+                            <div><NuxtLink to="/slug">Take a look</NuxtLink></div>
                             <img
                               src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
                               loading="eager"

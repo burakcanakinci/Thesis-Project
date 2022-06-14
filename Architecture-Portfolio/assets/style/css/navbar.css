@@ -4828,7 +4828,7 @@ html {
   ul {
     margin-top: 0px;
     margin-bottom: 10px;
-    padding-left: 40px;
+    padding-left: 0px;
   }
   
   ol {
@@ -5400,7 +5400,6 @@ html {
     display: -ms-flexbox;
     display: flex;
     margin-bottom: 0px;
-    padding-left: 150px;
     -webkit-box-pack: end;
     -webkit-justify-content: flex-end;
     -ms-flex-pack: end;
@@ -6592,6 +6591,7 @@ html {
     height: 100%;
     -o-object-fit: cover;
     object-fit: cover;
+    cursor: pointer;
   }
   
   .image.testimonial-client-avatar {
@@ -9958,6 +9958,7 @@ html {
       display: flex;
       margin-top: 20px;
       font-size: 24px;
+      margin-left: 18px;
     }
   
     .services-main-wrapper {
@@ -10361,6 +10362,20 @@ html {
   }
   
   @media screen and (max-width: 479px) {
+
+    .more-projects-margin-83 {
+      margin-left: 10px;
+      padding-bottom: 50px;
+    }
+
+    .flex-direction-row {
+      display: block;
+    }
+
+    .image-wrapper.portfolio-card {
+      
+      width: 50%;
+    }
     
     .pages-up {
       display: block;
