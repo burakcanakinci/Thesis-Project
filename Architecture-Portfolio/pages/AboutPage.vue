@@ -123,22 +123,6 @@
     </div>
     <div id="about-resume" class="section pd-top-bottom-200px wf-section">
         <div class="container-default w-container">
-            <div
-                data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571c0"
-                style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                       rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                       opacity: 1;
-                       transform-style: preserve-3d;"
-                class="top-content resume-top-content"
-            >
-                <h2 class="title resume-section">Take a look at my resume</h2>
-                <a href="/contact" class="button-primary w-button">Get in touch</a>
-                <img src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61140780d72abbf65771d050_resume-underline-personal-x-template.svg"
-                     alt=""
-                     loading="lazy"
-                     class="image resume-underline"
-                >
-            </div>
             <div class="resume-main-wrapper">
                 <div class="_2-column-grid resume-grid">
                     <div

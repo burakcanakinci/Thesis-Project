@@ -62,7 +62,7 @@
                         href="
                         "
                         class="card home-portfolio-card w-inline-block"
-                        ><div class="image-wrapper portfolio-card">
+                        ><div class="image-wrapper portfolio-card2">
                           <img
                             src="~/assets/image/dunyagoz.jpg"
                             alt="Todo List Mobile App Redesign"
@@ -111,7 +111,7 @@
                         tabindex="-1"
                         aria-hidden="true"
                         ><div
-                          class="image-wrapper portfolio-card"
+                          class="image-wrapper portfolio-card2"
                           aria-hidden="true"
                         >
                           <img
@@ -186,7 +186,7 @@
                         tabindex="-1"
                         aria-hidden="true"
                         ><div
-                          class="image-wrapper portfolio-card"
+                          class="image-wrapper portfolio-card2"
                           aria-hidden="true"
                         >
                           <img
@@ -255,7 +255,7 @@
                         tabindex="-1"
                         aria-hidden="true"
                         ><div
-                          class="image-wrapper portfolio-card"
+                          class="image-wrapper portfolio-card2"
                           aria-hidden="true"
                         >
                           <img
@@ -322,7 +322,7 @@
                         tabindex="-1"
                         aria-hidden="true"
                         ><div
-                          class="image-wrapper portfolio-card"
+                          class="image-wrapper portfolio-card2"
                           aria-hidden="true"
                         >
                           <img
@@ -389,7 +389,7 @@
                         tabindex="-1"
                         aria-hidden="true"
                         ><div
-                          class="image-wrapper portfolio-card"
+                          class="image-wrapper portfolio-card2"
                           aria-hidden="true"
                         >
                           <img
@@ -456,7 +456,7 @@
                         tabindex="-1"
                         aria-hidden="true"
                         ><div
-                          class="image-wrapper portfolio-card"
+                          class="image-wrapper portfolio-card2"
                           aria-hidden="true"
                         >
                           <img
@@ -525,7 +525,7 @@
                         tabindex="-1"
                         aria-hidden="true"
                         ><div
-                          class="image-wrapper portfolio-card"
+                          class="image-wrapper portfolio-card2"
                           aria-hidden="true"
                         >
                           <img
@@ -592,7 +592,7 @@
                         tabindex="-1"
                         aria-hidden="true"
                         ><div
-                          class="image-wrapper portfolio-card"
+                          class="image-wrapper portfolio-card2"
                           aria-hidden="true"
                         >
                           <img
@@ -659,7 +659,7 @@
                         tabindex="-1"
                         aria-hidden="true"
                         ><div
-                          class="image-wrapper portfolio-card"
+                          class="image-wrapper portfolio-card2"
                           aria-hidden="true"
                         >
                           <img
@@ -726,7 +726,7 @@
                         tabindex="-1"
                         aria-hidden="true"
                         ><div
-                          class="image-wrapper portfolio-card"
+                          class="image-wrapper portfolio-card2"
                           aria-hidden="true"
                         >
                           <img
@@ -795,7 +795,7 @@
                         tabindex="-1"
                         aria-hidden="true"
                         ><div
-                          class="image-wrapper portfolio-card"
+                          class="image-wrapper portfolio-card2"
                           aria-hidden="true"
                         >
                           <img
