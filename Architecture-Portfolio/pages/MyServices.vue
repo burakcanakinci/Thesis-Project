@@ -11,7 +11,7 @@
                 "
                 class="container-small text-center"
               >
-                <h2>My Trophies</h2>
+                <h2>My Awards</h2>
                 <p>
                  
                   <span class="text-no-wrap"></span>
@@ -30,16 +30,14 @@
                     class="card service-card"
                   >
                     <img
-                      src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6112ae8b813c8f4ed9b43594_service-1-personal-x-template.svg"
+                      src="~/assets/image/trophy-fill.png"
                       alt="Web Design - You X Webflow Template"
                       class="image service-icon"
                     />
                     <div>
-                      <h3 class="title service-title">Web Design</h3>
+                      <h3 class="title service-title">Turkish Acousticians Association</h3>
                       <p class="paragraph service-paragraph">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Ut iaculis viverra mollis nisl dole dolorili tincidunt.
-                        Integer eget vitae id tortor.
+                        Southeast Anatolian Acoustic Award - 1999
                       </p>
                     </div>
                   </div>
@@ -54,16 +52,14 @@
                     class="card service-card"
                   >
                     <img
-                      src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6112ae8b8dd274078a715c01_service-2-personal-x-template.svg"
+                      src="~/assets/image/trophy-fill.png"
                       alt="UI/UX Design - You X Webflow Template"
                       class="image service-icon"
                     />
                     <div>
-                      <h3 class="title service-title">UI / UX Design</h3>
+                      <h3 class="title service-title">Halk Bank</h3>
                       <p class="paragraph service-paragraph">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Ut iaculis viverra mollis nisl dole dolorili tincidunt.
-                        Integer eget vitae id tortor.
+                        Best Branch Construction Award - 2007
                       </p>
                     </div>
                   </div>
@@ -78,16 +74,14 @@
                     class="card service-card"
                   >
                     <img
-                      src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6112ae8b908a1cfb9816fd8c_service-3-personal-x-template.svg"
+                      src="~/assets/image/trophy-line.png"
                       alt="Product Design - You X Webflow Template"
                       class="image service-icon"
                     />
                     <div>
-                      <h3 class="title service-title">Product Design</h3>
+                      <h3 class="title service-title">STO - Term</h3>
                       <p class="paragraph service-paragraph">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Ut iaculis viverra mollis nisl dole dolorili tincidunt.
-                        Integer eget vitae id tortor.
+                        Turkey's First Acoustic Plaster Application Plaque - 2009
                       </p>
                     </div>
                   </div>
@@ -102,16 +96,14 @@
                     class="card service-card"
                   >
                     <img
-                      src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6112ae8b7c74be889e7f3156_service-4-personal-x-template.svg"
+                      src="~/assets/image/trophy-line.png"
                       alt="Web Development - You X Webflow Template"
                       class="image service-icon"
                     />
                     <div>
-                      <h3 class="title service-title">Web Development</h3>
+                      <h3 class="title service-title">Ağaoğlu Construction</h3>
                       <p class="paragraph service-paragraph">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Ut iaculis viverra mollis nisl dole dolorili tincidunt.
-                        Integer eget vitae id tortor.
+                        Management Plaque in Turkey's Largest Construction - 2018
                       </p>
                     </div>
                   </div>

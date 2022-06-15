@@ -17,7 +17,7 @@ html {
     --darkGray: #807362;
     --darkGreen: #6B705C;
     --mediumGreen: #A5A58D;
-    --lightGreen: #B7B7A4;
+    --lightGreen: #F5F5F3;
     --lightCream: #FFFAF6;
     --mediumCream: #FFE8D6;
     --lightBrown: #DDBEA9;
@@ -1180,10 +1180,10 @@ html {
     flex-direction: row;
   }
   .more-projects-margin-83 {
-    margin-left: 83px;
+    margin-left: 63px;
   }
   .more-projects-width {
-    width: 785px;
+    width: 180%;
   }
   .w-slide {
     position: relative;
@@ -1611,10 +1611,13 @@ html {
   @media (max-width: 769px) {
     .footer-menu-wrapper {
       margin-top: 100px;
-      
+    }
+    .more-projects-width{
+      width: 136%;
     }
   }
   @media (min-width: 768px) {
+    
     .divide {
       display: block;
       margin-left: 50px;
@@ -4757,7 +4760,7 @@ html {
   body {
     font-family: Satoshi, sans-serif;
     color: #777990;
-    font-size: 18px;
+    font-size: 19.5px;
     line-height: 1.777em;
     font-weight: 500;
   }
@@ -4780,11 +4783,12 @@ html {
     font-weight: 700;
   }
   
+  /* My Services Section */
   h3 {
     margin-top: 0px;
     margin-bottom: 20px;
     color: var(--textColor);
-    font-size: 24px;
+    font-size: 30px;
     line-height: 1.333em;
     font-weight: 700;
   }
@@ -6062,6 +6066,7 @@ html {
   
   .title.service-title {
     margin-bottom: 12px;
+    margin-top: 20px;
   }
   
   .title.home-about {
@@ -6082,7 +6087,8 @@ html {
   }
   
   .title.home-portfolio-card {
-    margin-bottom: 16px;
+    margin-bottom: 30px;
+    margin-left: 10px;
   }
   
   .title.testimonials {
@@ -6565,7 +6571,9 @@ html {
   
   .image.service-icon {
     margin-right: 28px;
-    border-radius: 20px;
+    /* border-radius: 20px; */
+    width: 48px;
+    height: 48px;
   }
   
   .image.resume-social-logo {
@@ -7045,7 +7053,7 @@ html {
     min-height: 116%;
     margin-top: -40px;
     border-radius: 24px;
-    background-color: var(--2xLightGray);
+    background-color: var(--lightGreen);
 
   }
   
@@ -8397,6 +8405,18 @@ html {
     .footer-menu-wrapper {
       /* margin-left: 50px; */
     }
+    /* Home Projects Section Image Size */
+    .image-wrapper.portfolio-card2 {
+      width: 550px;
+      height: 309px;
+    }
+    /* Projects Projects Section Image Size */
+    .image-wrapper.portfolio-card {
+      width: 600px;
+      height: 680px;
+      border-radius: 20px;
+      width: fit-content;
+    }
   }
 
   @media screen and (max-width: 991px) {
@@ -8893,7 +8913,7 @@ html {
     }
   
     .image.service-icon {
-      max-width: 25%;
+      max-width: 100%;
       margin-right: 0px;
       margin-bottom: 24px;
     }
@@ -10371,6 +10391,9 @@ html {
   }
   
   @media screen and (max-width: 479px) {
+    .more-projects-width{
+      width: 208%;
+    }
     .title.portfolio {
       margin-left: -91px;
     }
@@ -11398,4 +11421,14 @@ html {
     font-weight: 500;
     font-style: normal;
     font-display: swap;
+  }
+  .list-style-none {
+    list-style: none;
+  }
+  .display-flex {
+    display: flex;
+    float: right;
+  }
+  .border-radius {
+    border-radius: 24px;
   }

@@ -61,33 +61,26 @@
                     <div role="listitem" class="w-dyn-item more-projects-width">
                       <a class="card home-portfolio-card w-inline-block flex-direction-row">
                         <div class="image-wrapper portfolio-card">
+                          <h3 class="title home-portfolio-card">
+                          Ağaoğlu Maslak 1453
+                          </h3>
                           <NuxtLink class="image portfolio-card" to="/slug">
                           <img
-                            src="~/assets/image/dunyagoz.jpg"
+                            src="~/assets/image/Maslak-1453.jpg"
                             alt="Todo List Mobile App Redesign"
                             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
+                            class="border-radius"
                           />
                           </NuxtLink>
                         </div>
                         <div
                           class="split-content portfolio-card-bottom-content more-projects-margin-83"
                         >
-                          <h3 class="title home-portfolio-card">
-                          <NuxtLink to="/slug">Çebitaş</NuxtLink>
-                          </h3>
+                          
                           <p class="paragraph home-portfolio-card">
                             <!-- Bu projede falan filan olmuştur ama şu fotoların
                             size ları düzeltilmesi gerek. -->
                           </p>
-                          <div class="hc-flex read-case-study">
-                            <div><NuxtLink to="/slug">Take a look</NuxtLink></div>
-                            <img
-                              src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
-                              loading="eager"
-                              alt="Arrow Icon - You X Webflow Template"
-                              class="image projects-link-arrow"
-                            />
-                          </div>
                         </div>
                       </a>
                     </div>
@@ -96,74 +89,37 @@
               </div>
               <div
                 class="home-portfolio-slide w-slide"
-                aria-label="2 of 12"
+                aria-label="1 of 12"
                 role="group"
-                aria-hidden="true"
                 style="transform: translateX(0px); opacity: 1"
               >
-                <div class="w-dyn-list" aria-hidden="true">
-                  <div role="list" class="w-dyn-items" aria-hidden="true">
-                    <div role="listitem" class="w-dyn-item more-projects-width" aria-hidden="true">
-                      <a
-                        class="card home-portfolio-card w-inline-block flex-direction-row"
-                        tabindex="-1"
-                        aria-hidden="true"
-                        ><div
-                          class="image-wrapper portfolio-card"
-                          aria-hidden="true"
-                        >
+                <div class="w-dyn-list">
+                  <div role="list" class="w-dyn-items">
+                    <div role="listitem" class="w-dyn-item more-projects-width">
+                      <a class="card home-portfolio-card w-inline-block flex-direction-row">
+                        <div class="image-wrapper portfolio-card">
+                          <h3 class="title home-portfolio-card">
+                          <NuxtLink to="/slug">Ağaoğlu My Home Ayazağa</NuxtLink>
+                          </h3>
+                          <NuxtLink class="image portfolio-card" to="/slug">
                           <img
-                            src="~/assets/image/Picture2.jpg"
-                            alt="Analytics Dashboard Design"
+                            src="~/assets/image/MyHomeAyazağa.jpg"
+                            alt="Todo List Mobile App Redesign"
                             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-                            
-                            class="image portfolio-card"
-                            aria-hidden="true"
-                            style="
-                              transform: translate3d(0px, 0px, 0px)
-                                scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg)
-                                rotateZ(0deg) skew(0deg);
-                              transform-style: preserve-3d;
-                            "
+                            class="border-radius"
                           />
+                          </NuxtLink>
                         </div>
                         <div
                           class="split-content portfolio-card-bottom-content more-projects-margin-83"
-                          aria-hidden="true"
                         >
-                          <h3
-                            class="title home-portfolio-card"
-                            aria-hidden="true"
-                          >
-                             <NuxtLink to="/slug">Dünya Göz Hospital</NuxtLink>
-                          </h3>
-                          <p
-                            class="paragraph home-portfolio-card"
-                            aria-hidden="true"
-                          >
-                            <!-- Bu projede biz kaza yaptık ve benim en sevdiğim lego helikopterim kırıldı.
-                            Kalbim kırık. -->
+                          
+                          <p class="paragraph home-portfolio-card">
+                            <!-- Bu projede falan filan olmuştur ama şu fotoların
+                            size ları düzeltilmesi gerek. -->
                           </p>
-                          <div
-                            class="hc-flex read-case-study"
-                            aria-hidden="true"
-                          >
-                            <div aria-hidden="true">Take a look</div>
-                            <img
-                              src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
-                              loading="eager"
-                              alt="Arrow Icon - You X Webflow Template"
-                              class="image projects-link-arrow"
-                              aria-hidden="true"
-                              style="
-                                transform: translate3d(0px, 0px, 0px)
-                                  scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg)
-                                  rotateZ(0deg) skew(0deg);
-                                transform-style: preserve-3d;
-                              "
-                            />
-                          </div></div
-                      ></a>
+                        </div>
+                      </a>
                     </div>
                   </div>
                 </div>
@@ -179,33 +135,25 @@
                     <div role="listitem" class="w-dyn-item more-projects-width">
                       <a class="card home-portfolio-card w-inline-block flex-direction-row">
                         <div class="image-wrapper portfolio-card">
+                          <h3 class="title home-portfolio-card">
+                          <NuxtLink to="/slug">Dünya Göz Hospital</NuxtLink>
+                          </h3>
+                          <NuxtLink class="image portfolio-card" to="/slug">
                           <img
-                            src="~/assets/image/dunyagoz.jpg"
+                            src="~/assets/image/dunyagoz-pendik.jpg"
                             alt="Todo List Mobile App Redesign"
                             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-                            
-                            class="image portfolio-card"
+                            class="border-radius"
                           />
+                          </NuxtLink>
                         </div>
                         <div
                           class="split-content portfolio-card-bottom-content more-projects-margin-83"
                         >
-                          <h3 class="title home-portfolio-card">
-                          <NuxtLink to="/slug">Çebitaş</NuxtLink>
-                          </h3>
+                          
                           <p class="paragraph home-portfolio-card">
-                            <!-- Bu projede falan filan olmuştur ama şu fotoların
-                            size ları düzeltilmesi gerek. -->
+                            <!-- Hoverın içine yazılacak bilgiler -->
                           </p>
-                          <div class="hc-flex read-case-study">
-                            <div>Take a look</div>
-                            <img
-                              src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
-                              loading="eager"
-                              alt="Arrow Icon - You X Webflow Template"
-                              class="image projects-link-arrow"
-                            />
-                          </div>
                         </div>
                       </a>
                     </div>
@@ -223,385 +171,26 @@
                     <div role="listitem" class="w-dyn-item more-projects-width">
                       <a class="card home-portfolio-card w-inline-block flex-direction-row">
                         <div class="image-wrapper portfolio-card">
+                          <h3 class="title home-portfolio-card">
+                          <NuxtLink to="/slug">Ağaoğlu Maslak 1453</NuxtLink>
+                          </h3>
+                          <NuxtLink class="image portfolio-card" to="/slug">
                           <img
-                            src="~/assets/image/dunyagoz.jpg"
+                            src="~/assets/image/Maslak-1453.jpg"
                             alt="Todo List Mobile App Redesign"
                             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-                            
-                            class="image portfolio-card"
+                            class="border-radius"
                           />
+                          </NuxtLink>
                         </div>
                         <div
                           class="split-content portfolio-card-bottom-content more-projects-margin-83"
                         >
-                          <h3 class="title home-portfolio-card">
-                          <NuxtLink to="/slug">Çebitaş</NuxtLink>
-                          </h3>
+                          
                           <p class="paragraph home-portfolio-card">
                             <!-- Bu projede falan filan olmuştur ama şu fotoların
                             size ları düzeltilmesi gerek. -->
                           </p>
-                          <div class="hc-flex read-case-study">
-                            <div>Take a look</div>
-                            <img
-                              src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
-                              loading="eager"
-                              alt="Arrow Icon - You X Webflow Template"
-                              class="image projects-link-arrow"
-                            />
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                class="home-portfolio-slide w-slide"
-                aria-label="5 of 12"
-                role="group"
-                style="transform: translateX(0px); opacity: 1"
-              >
-                <div class="w-dyn-list">
-                  <div role="list" class="w-dyn-items">
-                    <div role="listitem" class="w-dyn-item more-projects-width">
-                      <a class="card home-portfolio-card w-inline-block flex-direction-row">
-                        <div class="image-wrapper portfolio-card">
-                          <img
-                            src="~/assets/image/dunyagoz.jpg"
-                            alt="Todo List Mobile App Redesign"
-                            sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-                            
-                            class="image portfolio-card"
-                          />
-                        </div>
-                        <div
-                          class="split-content portfolio-card-bottom-content more-projects-margin-83"
-                        >
-                          <h3 class="title home-portfolio-card">
-                          <NuxtLink to="/slug">Çebitaş</NuxtLink>
-                          </h3>
-                          <p class="paragraph home-portfolio-card">
-                            <!-- Bu projede falan filan olmuştur ama şu fotoların
-                            size ları düzeltilmesi gerek. -->
-                          </p>
-                          <div class="hc-flex read-case-study">
-                            <div>Take a look</div>
-                            <img
-                              src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
-                              loading="eager"
-                              alt="Arrow Icon - You X Webflow Template"
-                              class="image projects-link-arrow"
-                            />
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                class="home-portfolio-slide w-slide"
-                aria-label="6 of 12"
-                role="group"
-                style="transform: translateX(0px); opacity: 1"
-              >
-                <div class="w-dyn-list">
-                  <div role="list" class="w-dyn-items">
-                    <div role="listitem" class="w-dyn-item more-projects-width">
-                      <a class="card home-portfolio-card w-inline-block flex-direction-row">
-                        <div class="image-wrapper portfolio-card">
-                          <img
-                            src="~/assets/image/dunyagoz.jpg"
-                            alt="Todo List Mobile App Redesign"
-                            sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-                            
-                            class="image portfolio-card"
-                          />
-                        </div>
-                        <div
-                          class="split-content portfolio-card-bottom-content more-projects-margin-83"
-                        >
-                          <h3 class="title home-portfolio-card">
-                          <NuxtLink to="/slug">Çebitaş</NuxtLink>
-                          </h3>
-                          <p class="paragraph home-portfolio-card">
-                            <!-- Bu projede falan filan olmuştur ama şu fotoların
-                            size ları düzeltilmesi gerek. -->
-                          </p>
-                          <div class="hc-flex read-case-study">
-                            <div>Take a look</div>
-                            <img
-                              src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
-                              loading="eager"
-                              alt="Arrow Icon - You X Webflow Template"
-                              class="image projects-link-arrow"
-                            />
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                class="home-portfolio-slide w-slide"
-                aria-label="7 of 12"
-                role="group"
-                style="transform: translateX(0px); opacity: 1"
-              >
-                <div class="w-dyn-list">
-                  <div role="list" class="w-dyn-items">
-                    <div role="listitem" class="w-dyn-item more-projects-width">
-                      <a class="card home-portfolio-card w-inline-block flex-direction-row">
-                        <div class="image-wrapper portfolio-card">
-                          <img
-                            src="~/assets/image/dunyagoz.jpg"
-                            alt="Todo List Mobile App Redesign"
-                            sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-                            
-                            class="image portfolio-card"
-                          />
-                        </div>
-                        <div
-                          class="split-content portfolio-card-bottom-content more-projects-margin-83"
-                        >
-                          <h3 class="title home-portfolio-card">
-                          <NuxtLink to="/slug">Çebitaş</NuxtLink>
-                          </h3>
-                          <p class="paragraph home-portfolio-card">
-                            <!-- Bu projede falan filan olmuştur ama şu fotoların
-                            size ları düzeltilmesi gerek. -->
-                          </p>
-                          <div class="hc-flex read-case-study">
-                            <div>Take a look</div>
-                            <img
-                              src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
-                              loading="eager"
-                              alt="Arrow Icon - You X Webflow Template"
-                              class="image projects-link-arrow"
-                            />
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                class="home-portfolio-slide w-slide"
-                aria-label="8 of 12"
-                role="group"
-                style="transform: translateX(0px); opacity: 1"
-              >
-                <div class="w-dyn-list">
-                  <div role="list" class="w-dyn-items">
-                    <div role="listitem" class="w-dyn-item more-projects-width">
-                      <a class="card home-portfolio-card w-inline-block flex-direction-row">
-                        <div class="image-wrapper portfolio-card">
-                          <img
-                            src="~/assets/image/dunyagoz.jpg"
-                            alt="Todo List Mobile App Redesign"
-                            sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-                            
-                            class="image portfolio-card"
-                          />
-                        </div>
-                        <div
-                          class="split-content portfolio-card-bottom-content more-projects-margin-83"
-                        >
-                          <h3 class="title home-portfolio-card">
-                          <NuxtLink to="/slug">Çebitaş</NuxtLink>
-                          </h3>
-                          <p class="paragraph home-portfolio-card">
-                            <!-- Bu projede falan filan olmuştur ama şu fotoların
-                            size ları düzeltilmesi gerek. -->
-                          </p>
-                          <div class="hc-flex read-case-study">
-                            <div>Take a look</div>
-                            <img
-                              src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
-                              loading="eager"
-                              alt="Arrow Icon - You X Webflow Template"
-                              class="image projects-link-arrow"
-                            />
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                class="home-portfolio-slide w-slide"
-                aria-label="9 of 12"
-                role="group"
-                style="transform: translateX(0px); opacity: 1"
-              >
-                <div class="w-dyn-list">
-                  <div role="list" class="w-dyn-items">
-                    <div role="listitem" class="w-dyn-item more-projects-width">
-                      <a class="card home-portfolio-card w-inline-block flex-direction-row">
-                        <div class="image-wrapper portfolio-card">
-                          <img
-                            src="~/assets/image/dunyagoz.jpg"
-                            alt="Todo List Mobile App Redesign"
-                            sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-                            
-                            class="image portfolio-card"
-                          />
-                        </div>
-                        <div
-                          class="split-content portfolio-card-bottom-content more-projects-margin-83"
-                        >
-                          <h3 class="title home-portfolio-card">
-                          <NuxtLink to="/slug">Çebitaş</NuxtLink>
-                          </h3>
-                          <p class="paragraph home-portfolio-card">
-                            <!-- Bu projede falan filan olmuştur ama şu fotoların
-                            size ları düzeltilmesi gerek. -->
-                          </p>
-                          <div class="hc-flex read-case-study">
-                            <div>Take a look</div>
-                            <img
-                              src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
-                              loading="eager"
-                              alt="Arrow Icon - You X Webflow Template"
-                              class="image projects-link-arrow"
-                            />
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                class="home-portfolio-slide w-slide"
-                aria-label="10 of 12"
-                role="group"
-                style="transform: translateX(0px); opacity: 1"
-              >
-                <div class="w-dyn-list">
-                  <div role="list" class="w-dyn-items">
-                    <div role="listitem" class="w-dyn-item more-projects-width">
-                      <a class="card home-portfolio-card w-inline-block flex-direction-row">
-                        <div class="image-wrapper portfolio-card">
-                          <img
-                            src="~/assets/image/dunyagoz.jpg"
-                            alt="Todo List Mobile App Redesign"
-                            sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-                            
-                            class="image portfolio-card"
-                          />
-                        </div>
-                        <div
-                          class="split-content portfolio-card-bottom-content more-projects-margin-83"
-                        >
-                          <h3 class="title home-portfolio-card">
-                          <NuxtLink to="/slug">Çebitaş</NuxtLink>
-                          </h3>
-                          <p class="paragraph home-portfolio-card">
-                            <!-- Bu projede falan filan olmuştur ama şu fotoların
-                            size ları düzeltilmesi gerek. -->
-                          </p>
-                          <div class="hc-flex read-case-study">
-                            <div>Take a look</div>
-                            <img
-                              src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
-                              loading="eager"
-                              alt="Arrow Icon - You X Webflow Template"
-                              class="image projects-link-arrow"
-                            />
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                class="home-portfolio-slide w-slide"
-                aria-label="11 of 12"
-                role="group"
-                style="transform: translateX(0px); opacity: 1"
-              >
-                <div class="w-dyn-list">
-                  <div role="list" class="w-dyn-items">
-                    <div role="listitem" class="w-dyn-item more-projects-width">
-                      <a class="card home-portfolio-card w-inline-block flex-direction-row">
-                        <div class="image-wrapper portfolio-card">
-                          <img
-                            src="~/assets/image/dunyagoz.jpg"
-                            alt="Todo List Mobile App Redesign"
-                            sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-                            
-                            class="image portfolio-card"
-                          />
-                        </div>
-                        <div
-                          class="split-content portfolio-card-bottom-content more-projects-margin-83"
-                        >
-                          <h3 class="title home-portfolio-card">
-                          <NuxtLink to="/slug">Çebitaş</NuxtLink>
-                          </h3>
-                          <p class="paragraph home-portfolio-card">
-                            <!-- Bu projede falan filan olmuştur ama şu fotoların
-                            size ları düzeltilmesi gerek. -->
-                          </p>
-                          <div class="hc-flex read-case-study">
-                            <div>Take a look</div>
-                            <img
-                              src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
-                              loading="eager"
-                              alt="Arrow Icon - You X Webflow Template"
-                              class="image projects-link-arrow"
-                            />
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                class="home-portfolio-slide w-slide"
-                aria-label="12 of 12"
-                role="group"
-                style="transform: translateX(0px); opacity: 1"
-              >
-                <div class="w-dyn-list">
-                  <div role="list" class="w-dyn-items">
-                    <div role="listitem" class="w-dyn-item more-projects-width">
-                      <a class="card home-portfolio-card w-inline-block flex-direction-row">
-                        <div class="image-wrapper portfolio-card">
-                          <img
-                            src="~/assets/image/dunyagoz.jpg"
-                            alt="Todo List Mobile App Redesign"
-                            sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-                            
-                            class="image portfolio-card"
-                          />
-                        </div>
-                        <div
-                          class="split-content portfolio-card-bottom-content more-projects-margin-83"
-                        >
-                          <h3 class="title home-portfolio-card">
-                          <NuxtLink to="/slug">Çebitaş</NuxtLink>
-                          </h3>
-                          <p class="paragraph home-portfolio-card">
-                            <!-- Bu projede falan filan olmuştur ama şu fotoların
-                            size ları düzeltilmesi gerek. -->
-                          </p>
-                          <div class="hc-flex read-case-study">
-                            <div>Take a look</div>
-                            <img
-                              src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
-                              loading="eager"
-                              alt="Arrow Icon - You X Webflow Template"
-                              class="image projects-link-arrow"
-                            />
-                          </div>
                         </div>
                       </a>
                     </div>

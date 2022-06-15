@@ -54,7 +54,7 @@
                     role="button"
                     tabindex="0"
                   >
-                    <div class="nav-link opacity"><NuxtLink to="/MoreProjects">Projects</NuxtLink></div>
+                    <div><NuxtLink class="nav-link opacity" to="/MoreProjects">Projects</NuxtLink></div>
                    
                   </div>
                 </div>

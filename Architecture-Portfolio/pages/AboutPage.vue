@@ -61,25 +61,25 @@
                         Lorem var bi de onun ipsumu var
                     </p>
                     <h2 class="title my-story-title">
-                        Designing since I was bilmem kaç years old.
+                        My Educational Background
                     </h2>
                     <p class="paragraph my-story-paragraph">
-                        mmmmmhm
+                        
                     </p>
                     <ul role="list" class="list my-story-list">
-                        <li class="list-item my-story-item">
+                        <li class="list-item my-story-item list-style-none">
                             <div>
-                                Ornare lectur sit
+                                1990 - Ankara Mimar Kemal Construction Technical High School
                             </div>
                         </li>
-                        <li class="list-item my-story-item">
+                        <li class="list-item my-story-item list-style-none">
                             <div>
-                                Lan noluyo burda aq
+                                1999 - Mimar Sinan University Faculty of Architecture Bachelor Degree
                             </div>
                         </li>
-                        <li class="list-item my-story-item last">
+                        <li class="list-item my-story-item last list-style-none">
                             <div>
-                                Lannnnnnnnnnnnnnn
+                                2003 - Mimar Sinan University Faculty of Architecture Sound B,C,D Master Degree
                             </div>
                         </li>
                     </ul>
