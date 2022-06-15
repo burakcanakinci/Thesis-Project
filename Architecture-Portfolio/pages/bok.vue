@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div>
         <h1 class="main-title">Simple image overlay hover effects</h1>
 
@@ -246,4 +246,4 @@ body{
   left: 80%;
 }
 
-</style>
+</style> -->

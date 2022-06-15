@@ -38,8 +38,8 @@
           >
             <h2 class="title home-about">About me</h2>
             <p class="paragraph home-about">
-              Ne şeyler vardı bilmiyorum ama sanırım onu yapmicaz yok.
-              <span class="text-no-wrap">myeh.</span>
+              I love what I do and I love sharing my experience.<br>
+              You can see more about my background from below
             </p>
             <a
               ><NuxtLink class="button-primary w-button" to="/AboutPage"

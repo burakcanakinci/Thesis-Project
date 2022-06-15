@@ -64,6 +64,7 @@
                           <h3 class="title home-portfolio-card">
                           Ağaoğlu Maslak 1453
                           </h3>
+
                           <NuxtLink class="image portfolio-card" to="/slug">
                           <img
                             src="~/assets/image/Maslak-1453.jpg"
@@ -102,7 +103,7 @@
                       <a class="card home-portfolio-card w-inline-block flex-direction-row">
                         <div class="image-wrapper portfolio-card">
                           <h3 class="title home-portfolio-card">
-                          <NuxtLink to="/slug">Ağaoğlu My Home Ayazağa</NuxtLink>
+                          Ağaoğlu My Home Ayazağa
                           </h3>
                           <NuxtLink class="image portfolio-card" to="/slug">
                           <img
@@ -139,7 +140,7 @@
                       <a class="card home-portfolio-card w-inline-block flex-direction-row">
                         <div class="image-wrapper portfolio-card">
                           <h3 class="title home-portfolio-card">
-                          <NuxtLink to="/slug">Dünya Göz Hospital</NuxtLink>
+                          Dünya Göz Hospital
                           </h3>
                           <NuxtLink class="image portfolio-card" to="/slug">
                           <img
@@ -175,7 +176,7 @@
                       <a class="card home-portfolio-card w-inline-block flex-direction-row">
                         <div class="image-wrapper portfolio-card">
                           <h3 class="title home-portfolio-card">
-                          <NuxtLink to="/slug">Vodafone Digital Operations Center</NuxtLink>
+                          Vodafone Digital Operations Center
                           </h3>
                           <NuxtLink class="image portfolio-card" to="/slug">
                           <img
@@ -212,7 +213,7 @@
                       <a class="card home-portfolio-card w-inline-block flex-direction-row">
                         <div class="image-wrapper portfolio-card">
                           <h3 class="title home-portfolio-card">
-                          <NuxtLink to="/slug">WOW Congress Center Istanbul</NuxtLink>
+                          WOW Congress Center Istanbul
                           </h3>
                           <NuxtLink class="image portfolio-card" to="/slug">
                           <img

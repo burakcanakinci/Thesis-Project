@@ -1615,6 +1615,7 @@ html {
     .more-projects-width{
       width: 136%;
     }
+    
   }
   @media (min-width: 768px) {
     
@@ -7065,10 +7066,10 @@ html {
     bottom: 0%;
     width: 100%;
     max-width: 900px;
-    min-height: 112%;
+    min-height: 108%;
     margin-top: -35px;
     border-radius: 24px;
-    background-color: #f6f7ff;
+    background-color: var(--lightGreen);
   }
   
   .bg.testimonials-square {
@@ -7144,7 +7145,7 @@ html {
   }
   
   .top-content.resume-top-card-content {
-    margin-bottom: 16px;
+    margin-bottom: 35px;
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
@@ -7606,7 +7607,7 @@ html {
   
   .narrow-section {
     padding-top: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 150px;
   }
   
   .narrow-section.post-body-section {
@@ -8390,6 +8391,10 @@ html {
   } */
 
   @media screen and (min-width: 1024px) {
+    .top-content {
+      padding-left: 170px;
+      padding-right: 170px;
+    }
     .footer-div {
       display: flex;
     }
@@ -11432,4 +11437,9 @@ html {
   }
   .border-radius {
     border-radius: 24px;
+  }
+  
+  .more-button2 {
+    padding-top: 100px;
+    padding-left: 150px;
   }

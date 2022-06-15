@@ -26,13 +26,13 @@
                     class="split-content hero-about-right"
                 >
                 <h1 class="title hero-about">
-                    I'm Gülçatay, <br>a Designer and Architect
+                    I'm Gülçatay, <br>a mother,<br>a wife and<br>a business woman
                 </h1>
                 <img src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6112b0068db0b60858060db4_hero-underline-personal-x-template.svg"
                     alt=""
                     class="image hero-about-underline">
                     <p class="paragraph hero-about">
-                        Valla burada ne yazacak bilmiyorum ama bu yazmayacak o kesin.
+                        With 23 years background in the industry, 
                     </p>
                 </div>
             </div>
@@ -58,7 +58,7 @@
                          class="image my-story-underline"
                     >
                     <p class="paragraph my-story-paragraph">
-                        Lorem var bi de onun ipsumu var
+                        First of all,
                     </p>
                     <h2 class="title my-story-title">
                         My Educational Background
@@ -148,7 +148,8 @@
                               </div>
                           </div>
                         </a>
-                <div class="top-content resume-top-card-content">
+                <div class="top-content resume-top-card-content"
+                     style="padding-right: 0px;">
                   <h3 class="title resume-title">Nokta Yatırım Holding</h3>
                   <div>Dec 2018 - Feb 2020</div>
                 </div>
@@ -181,7 +182,8 @@
                     </div>
                   </div>
                 </a>
-                <div class="top-content resume-top-card-content">
+                <div class="top-content resume-top-card-content"
+                     style="padding-right: 0px;">
                   <h3 class="title resume-title">Dünya Göz Hospital Samsun</h3>
                   <div>Feb 2011 - June 2011</div>
                 </div>
@@ -213,7 +215,9 @@
                               </div>
                           </div>
                         </a>
-                <div class="top-content resume-top-card-content">
+                <div class="top-content resume-top-card-content"
+                     style="padding-right: 0px;"
+                >
                   <h3 class="title resume-title">Arıkan Structure Park City Residence</h3>
                   <div>May 2007 - Nov 2009</div>
                 </div>
@@ -247,7 +251,8 @@
                     </div>
                   </div>
                 </a>
-                <div class="top-content resume-top-card-content">
+                <div class="top-content resume-top-card-content"
+                     style="padding-right: 0px;">
                   <h3 class="title resume-title">HAVAŞ Antalya Mechanical Workshop Building Application</h3>
                   <div>Jan 2007 - May 2007</div>
                 </div>
@@ -280,7 +285,8 @@
                     </div>
                   </div>
                 </a>
-                <div class="top-content resume-top-card-content">
+                <div class="top-content resume-top-card-content"
+                     style="padding-right: 0px;">
                   <h3 class="title resume-title">Önka Textile Factory Construction</h3>
                   <div>June 2004 - Aug 2005</div>
                 </div>
@@ -290,7 +296,7 @@
                 </p>
               </div>
               <div
-                data-w-id="bb95998d-e838-f9b4-50b5-59e087921974"
+                data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571d7"
                 style="
                   transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
                     rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
@@ -300,33 +306,27 @@
                 class="card resume-card"
               >
                 <a
-                  href="https://www.whatsapp.com/"
                   target="_blank"
-                  class="resume-social-links-wrapper w-inline-block"
-                  ><div class="flex">
+                  class="resume-social-links-wrapper w-inline-block">
+                  <div class="flex">
                     <img
-                      src="https://assets.website-files.com/61129bb2ecedf803564c68ec/611408a2080ec61d380b7eb4_resume-whatsapp-small-personal-x-template.svg"
+                      src="~/assets/image/community-line.png"
                       loading="lazy"
-                      alt="WhatsApp - You X Webflow Template"
+                      alt="Twitter - You X Webflow Template"
                       class="image resume-social-logo"
                     />
                     <div class="hc-flex resume-social-link">
-                      <div>WhatsApp</div>
-                      <img
-                        src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6112ba050b60789b2070f965_resume-arrow-personal-x-template.svg"
-                        loading="eager"
-                        alt="Arrow Icon - You X Webflow Template"
-                        class="image resume-arrow"
-                      />
-                    </div></div
-                ></a>
-                <div class="top-content resume-top-card-content">
-                  <h3 class="title resume-title">Mobile UI Designer</h3>
-                  <div>Sep 2017 - Feb 2020</div>
+                    </div>
+                  </div>
+                </a>
+                <div class="top-content resume-top-card-content"
+                     style="padding-right: 0px;">
+                  <h3 class="title resume-title">Ar-El Educational Institutions</h3>
+                  <div>Mar 2002 - Apr 2004</div>
                 </div>
                 <p class="paragraph">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Maecenas bibendum sit dolor dregoneml adi.
+                  Site Chief<br></br>
+                  Reference: Kemal Gözükara(Ar-El Educational Institutions) 
                 </p>
               </div>
             </div>

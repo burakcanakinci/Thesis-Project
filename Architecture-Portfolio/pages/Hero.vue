@@ -13,7 +13,7 @@
             >
               <h3 class="title subtitle">Hello, I’m Gülçatay</h3>
               <h1 class="title home-hero">
-                 I enjoy designing homes and falans filans
+                 I am an architect,<br>a project manager<br>and a designer.
               </h1>
               <img
                 src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6112b0068db0b60858060db4_hero-underline-personal-x-template.svg"
