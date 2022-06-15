@@ -6078,7 +6078,8 @@ html {
   }
   
   .title.resume-title {
-    margin-bottom: 0px;
+    margin-bottom: 20px;
+    
   }
   
   .title.portfolio {
@@ -7138,7 +7139,7 @@ html {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    padding-right: 90px;
+    padding-right: 0px;
     padding-left: 90px;
   }
   

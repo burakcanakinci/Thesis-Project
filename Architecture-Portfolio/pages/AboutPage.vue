@@ -133,33 +133,28 @@
                                transform-style: preserve-3d;"
                         class="card resume-card"
                     >
-                        <a href="https://www.facedbook.com/"
+                        <a 
                            target="_blank"
                            class="resume-social-links-wrapper w-inline-block"
                         >
-                            <div class="flex">
-                                <img src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6112b97290277ddee6f7bdb7_resume-facebook-small-personal-x-template.svg"
-                                     alt="Facebook - You X Webflow Template"
-                                     loading="lazy"
-                                     class="image resume-social-logo"
-                                >
-                                <div class="hc-flex resume-social-link">
-                      <div>Facebook</div>
-                      <img
-                        src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6112ba050b60789b2070f965_resume-arrow-personal-x-template.svg"
-                        loading="eager"
-                        alt="Arrow Icon - You X Webflow Template"
-                        class="image resume-arrow"
-                      />
-                    </div></div
-                ></a>
+                          <div class="flex">
+                              <img src="~/assets/image/building-2-line.png"
+                                    alt="Facebook - You X Webflow Template"
+                                    loading="lazy"
+                                    class="image resume-social-logo"
+                              >
+                              <div class="hc-flex resume-social-link">
+
+                              </div>
+                          </div>
+                        </a>
                 <div class="top-content resume-top-card-content">
-                  <h3 class="title resume-title">Mobile Product Designer</h3>
-                  <div>Jan 2023 - Present</div>
+                  <h3 class="title resume-title">Nokta Yatırım Holding</h3>
+                  <div>Dec 2018 - Feb 2020</div>
                 </div>
                 <p class="paragraph">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Maecenas bibendum sit dolor dregoneml adi.
+                  Investment Development And Construction Department Coordinator<br></br>
+                  Reference: Suat SURMEN Chairman of the board
                 </p>
               </div>
               <div
@@ -173,37 +168,63 @@
                 class="card resume-card"
               >
                 <a
-                  href="https://twitter.com/"
                   target="_blank"
-                  class="resume-social-links-wrapper w-inline-block"
-                  ><div class="flex">
+                  class="resume-social-links-wrapper w-inline-block">
+                  <div class="flex">
                     <img
-                      src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6112b973813c8f7e8ab47ee2_resume-twitter-small-personal-x-template.svg"
+                      src="~/assets/image/building-line.png"
                       loading="lazy"
                       alt="Twitter - You X Webflow Template"
                       class="image resume-social-logo"
                     />
                     <div class="hc-flex resume-social-link">
-                      <div>Twitter</div>
-                      <img
-                        src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6112ba050b60789b2070f965_resume-arrow-personal-x-template.svg"
-                        loading="eager"
-                        alt="Arrow Icon - You X Webflow Template"
-                        class="image resume-arrow"
-                      />
-                    </div></div
-                ></a>
+                    </div>
+                  </div>
+                </a>
                 <div class="top-content resume-top-card-content">
-                  <h3 class="title resume-title">UI / UX Designer</h3>
-                  <div>Jan 2021 - Dec 2022</div>
+                  <h3 class="title resume-title">Dünya Göz Hospital Samsun</h3>
+                  <div>Feb 2011 - June 2011</div>
                 </div>
                 <p class="paragraph">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Maecenas bibendum sit dolor dregoneml adi.
+                  Project Manager<br></br>
+                  Reference: Enver Küçükali (Serpent Architecture)
                 </p>
               </div>
               <div
-                data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571e6"
+                        data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571c8"
+                        style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
+                               rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
+                               opacity: 1;
+                               transform-style: preserve-3d;"
+                        class="card resume-card"
+                    >
+                        <a 
+                           target="_blank"
+                           class="resume-social-links-wrapper w-inline-block"
+                        >
+                          <div class="flex">
+                              <img src="~/assets/image/building-3-line.png"
+                                    alt="Facebook - You X Webflow Template"
+                                    loading="lazy"
+                                    class="image resume-social-logo"
+                              >
+                              <div class="hc-flex resume-social-link">
+
+                              </div>
+                          </div>
+                        </a>
+                <div class="top-content resume-top-card-content">
+                  <h3 class="title resume-title">Arıkan Structure Park City Residence</h3>
+                  <div>May 2007 - Nov 2009</div>
+                </div>
+                <p class="paragraph">
+                  Deputy Project Manager, Decoration Works Manager<br></br>
+                  Reference: Osman Arıkan (Arıkan Structure)<br> &emsp; &emsp; &emsp; &emsp; Levent Kaya (General Coordinator) 
+
+                </p>
+              </div>
+              <div
+                data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571d7"
                 style="
                   transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
                     rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
@@ -213,37 +234,30 @@
                 class="card resume-card"
               >
                 <a
-                  href="https://www.youtube.com/"
                   target="_blank"
-                  class="resume-social-links-wrapper w-inline-block"
-                  ><div class="flex">
+                  class="resume-social-links-wrapper w-inline-block">
+                  <div class="flex">
                     <img
-                      src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6112b97290277dacc6f7bdb8_resume-youtube-small-personal-x-template.svg"
+                      src="~/assets/image/building-4-line.png"
                       loading="lazy"
-                      alt="YouTube - You X Webflow Template"
+                      alt="Twitter - You X Webflow Template"
                       class="image resume-social-logo"
                     />
                     <div class="hc-flex resume-social-link">
-                      <div>YouTube</div>
-                      <img
-                        src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6112ba050b60789b2070f965_resume-arrow-personal-x-template.svg"
-                        loading="eager"
-                        alt="Arrow Icon - You X Webflow Template"
-                        class="image resume-arrow"
-                      />
-                    </div></div
-                ></a>
+                    </div>
+                  </div>
+                </a>
                 <div class="top-content resume-top-card-content">
-                  <h3 class="title resume-title">VP of Design</h3>
-                  <div>Mar 2020 - Dec 2020</div>
+                  <h3 class="title resume-title">HAVAŞ Antalya Mechanical Workshop Building Application</h3>
+                  <div>Jan 2007 - May 2007</div>
                 </div>
                 <p class="paragraph">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Maecenas bibendum sit dolor dregoneml adi.
+                  Site Chief<br></br>
+                  Reference: Muzaffer Kupe (General Coordinator)
                 </p>
               </div>
               <div
-                data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571f5"
+                data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571d7"
                 style="
                   transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
                     rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
@@ -253,73 +267,26 @@
                 class="card resume-card"
               >
                 <a
-                  href="https://www.instagram.com/"
                   target="_blank"
-                  class="resume-social-links-wrapper w-inline-block"
-                  ><div class="flex">
+                  class="resume-social-links-wrapper w-inline-block">
+                  <div class="flex">
                     <img
-                      src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6112b9730b6078221970f3e4_resume-instagram-small-personal-x-template.svg"
+                      src="~/assets/image/hotel-line.png"
                       loading="lazy"
-                      alt="Instagram - You X Webflow Template"
+                      alt="Twitter - You X Webflow Template"
                       class="image resume-social-logo"
                     />
                     <div class="hc-flex resume-social-link">
-                      <div>Instagram</div>
-                      <img
-                        src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6112ba050b60789b2070f965_resume-arrow-personal-x-template.svg"
-                        loading="eager"
-                        alt="Arrow Icon - You X Webflow Template"
-                        class="image resume-arrow"
-                      />
-                    </div></div
-                ></a>
+                    </div>
+                  </div>
+                </a>
                 <div class="top-content resume-top-card-content">
-                  <h3 class="title resume-title">Head of Product Design</h3>
-                  <div>Sep 2017 - Feb 2020</div>
+                  <h3 class="title resume-title">Önka Textile Factory Construction</h3>
+                  <div>June 2004 - Aug 2005</div>
                 </div>
                 <p class="paragraph">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Maecenas bibendum sit dolor dregoneml adi.
-                </p>
-              </div>
-              <div
-                data-w-id="5e1e19fb-c648-c175-cd21-6b22b713c684"
-                style="
-                  transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                    rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                  opacity: 1;
-                  transform-style: preserve-3d;
-                "
-                class="card resume-card"
-              >
-                <a
-                  href="https://www.linkedin.com/"
-                  target="_blank"
-                  class="resume-social-links-wrapper w-inline-block"
-                  ><div class="flex">
-                    <img
-                      src="https://assets.website-files.com/61129bb2ecedf803564c68ec/611408a25ef4444e30591f0b_resume-linkedin-small-personal-x-template.svg"
-                      loading="lazy"
-                      alt="LinkedIn - You X Webflow Template"
-                      class="image resume-social-logo"
-                    />
-                    <div class="hc-flex resume-social-link">
-                      <div>LinkedIn</div>
-                      <img
-                        src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6112ba050b60789b2070f965_resume-arrow-personal-x-template.svg"
-                        loading="eager"
-                        alt="Arrow Icon - You X Webflow Template"
-                        class="image resume-arrow"
-                      />
-                    </div></div
-                ></a>
-                <div class="top-content resume-top-card-content">
-                  <h3 class="title resume-title">Web Designer</h3>
-                  <div>Sep 2017 - Feb 2020</div>
-                </div>
-                <p class="paragraph">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Maecenas bibendum sit dolor dregoneml adi.
+                  Site Chief<br></br>
+                  Reference: Abdul Kerim Önecek (Önka Textile) 
                 </p>
               </div>
               <div
