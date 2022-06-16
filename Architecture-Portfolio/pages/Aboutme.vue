@@ -14,13 +14,7 @@
             class="image-wrapper home-about"
           >
             <img
-              src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6112b5031b9bac7e65bfa8d1_home-about-personal-x-template.jpg"
-              srcset="
-                https://assets.website-files.com/61129bb2ecedf803564c68ec/6112b5031b9bac7e65bfa8d1_home-about-personal-x-template-p-500.jpeg   500w,
-                https://assets.website-files.com/61129bb2ecedf803564c68ec/6112b5031b9bac7e65bfa8d1_home-about-personal-x-template-p-800.jpeg   800w,
-                https://assets.website-files.com/61129bb2ecedf803564c68ec/6112b5031b9bac7e65bfa8d1_home-about-personal-x-template-p-1080.jpeg 1080w,
-                https://assets.website-files.com/61129bb2ecedf803564c68ec/6112b5031b9bac7e65bfa8d1_home-about-personal-x-template.jpg         1194w
-              "
+              src="~/assets/image/pink-hat.jpeg"
               sizes="(max-width: 479px) 93vw, (max-width: 767px) 94vw, (max-width: 991px) 95vw, (max-width: 1439px) 47vw, 589.4765625px"
               alt="About Product Designer - You X Webflow Template"
               class="image home-about"

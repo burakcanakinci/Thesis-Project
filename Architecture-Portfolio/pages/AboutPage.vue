@@ -32,7 +32,8 @@
                     alt=""
                     class="image hero-about-underline">
                     <p class="paragraph hero-about">
-                        With 23 years background in the industry, 
+                        With 23 years background in the industry, I have a decent knowledge about architecture and design.
+                        I influenced a lot of freshmen and worked with really clever young architects.
                     </p>
                 </div>
             </div>
@@ -58,7 +59,12 @@
                          class="image my-story-underline"
                     >
                     <p class="paragraph my-story-paragraph">
-                        First of all,
+                        I always had dreams and I always pursued them.
+                        Every problem I faced in my life, I never gave up.
+                        When I got the job as a manager in the biggest construction project in Turkey,
+                        I knew this oppurtunity was one in a million. I influenced a lot of new graduates
+                        and worked with young architects during this project.<br>
+                        I'm always looking forward to learn more and develop more...
                     </p>
                     <h2 class="title my-story-title">
                         My Educational Background
@@ -122,7 +128,8 @@
         </div>
     </div>
     <div id="about-resume" class="section pd-top-bottom-200px wf-section">
-        <div class="container-default w-container">
+      <h2 class="title my-skills center">My Work</h2>
+        <div class="container-default w-container padding-top">
             <div class="resume-main-wrapper">
                 <div class="_2-column-grid resume-grid">
                     <div
@@ -155,7 +162,7 @@
                 </div>
                 <p class="paragraph">
                   Investment Development And Construction Department Coordinator<br></br>
-                  Reference: Suat SURMEN Chairman of the board
+                  &emsp;&emsp;Reference: Suat SÜRMEN Chairman of the board
                 </p>
               </div>
               <div
@@ -185,11 +192,11 @@
                 <div class="top-content resume-top-card-content"
                      style="padding-right: 0px;">
                   <h3 class="title resume-title">Dünya Göz Hospital Samsun</h3>
-                  <div>Feb 2011 - June 2011</div>
+                  <div>Feb 2011 - Jun 2011</div>
                 </div>
                 <p class="paragraph">
                   Project Manager<br></br>
-                  Reference: Enver Küçükali (Serpent Architecture)
+                  &emsp;&emsp;Reference: Enver Küçükalı (Serpent Architecture)
                 </p>
               </div>
               <div
@@ -223,8 +230,7 @@
                 </div>
                 <p class="paragraph">
                   Deputy Project Manager, Decoration Works Manager<br></br>
-                  Reference: Osman Arıkan (Arıkan Structure)<br> &emsp; &emsp; &emsp; &emsp; Levent Kaya (General Coordinator) 
-
+                  &emsp;&emsp;Reference: Osman Arıkan (Arıkan Structure)<br>&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; Levent Kaya (General Coordinator)
                 </p>
               </div>
               <div
@@ -258,7 +264,7 @@
                 </div>
                 <p class="paragraph">
                   Site Chief<br></br>
-                  Reference: Muzaffer Kupe (General Coordinator)
+                  &emsp;&emsp;Reference: Muzaffer Küpe (General Coordinator)
                 </p>
               </div>
               <div
@@ -292,7 +298,7 @@
                 </div>
                 <p class="paragraph">
                   Site Chief<br></br>
-                  Reference: Abdul Kerim Önecek (Önka Textile) 
+                  &emsp;&emsp;Reference: Abdul Kerim Önecek (Önka Textile) 
                 </p>
               </div>
               <div
@@ -326,7 +332,97 @@
                 </div>
                 <p class="paragraph">
                   Site Chief<br></br>
-                  Reference: Kemal Gözükara(Ar-El Educational Institutions) 
+                  &emsp;&emsp;Reference: Kemal Gözükara (Ar-El Educational &emsp;&emsp;Institutions) 
+                </p>
+              </div>
+              <div
+                data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571d7"
+                style="
+                  transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
+                    rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
+                  opacity: 1;
+                  transform-style: preserve-3d;
+                "
+                class="card resume-card"
+              >
+                <a
+                  target="_blank"
+                  class="resume-social-links-wrapper w-inline-block">
+                  <div class="flex">
+                    <img
+                      src="~/assets/image/refresh-line.png"
+                      loading="lazy"
+                      alt="Twitter - You X Webflow Template"
+                      class="image resume-social-logo"
+                    />
+                    <div class="hc-flex resume-social-link">
+                    </div>
+                  </div>
+                </a>
+                <div class="top-content resume-top-card-content"
+                     style="padding-right: 0px;">
+                  <h3 class="title resume-title">Decoration and Renovation Works</h3>
+                  <div>2005 - 2007</div>
+                </div>
+                <p class="paragraph">
+                  Applications made from Pim Architecture<br></br>
+                  &emsp;&emsp;Reference: Murat Onur Company Partner
+                  <br><hr>
+                   - Halk Bank Esenyurt and Çatalca Branch Offices<br>
+                   - Faruk Eczacıbaşı Galata Office Acoustic Project and application<br> 
+                   - Faruk Eczacıbaşı Canyon Office Acoustic Project and application<br>
+                   - Fazıl Özen’s Summer House Celaliye<br>
+                   - Beyoğlu DIESEL<br> 
+                   - Meis bar Beyoğlu<br>
+                   - Fatih Center of Culture finishing works 15000m2<br>	
+                   - Yaşar Küçükalı’s House Fenerbahçe<br>
+                   - Fatih Çebi’s House Ataşehir<br>
+                   - Dental Hospital – Bursa
+                </p>
+              </div><div
+                data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571d7"
+                style="
+                  transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
+                    rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
+                  opacity: 1;
+                  transform-style: preserve-3d;
+                "
+                class="card resume-card"
+              >
+                <a
+                  target="_blank"
+                  class="resume-social-links-wrapper w-inline-block">
+                  <div class="flex">
+                    <img
+                      src="~/assets/image/surround-sound-line.png"
+                      loading="lazy"
+                      alt="Twitter - You X Webflow Template"
+                      class="image resume-social-logo"
+                    />
+                    <div class="hc-flex resume-social-link">
+                    </div>
+                  </div>
+                </a>
+                <div class="top-content resume-top-card-content"
+                     style="padding-right: 0px;">
+                  <h3 class="title resume-title">Sound Acoustic Projects</h3>
+                  <div></div>
+                </div>
+                <p class="paragraph">
+                  Consultansy Design
+                  <br><hr>
+                   - Bağcılar Sports Center Ambient Sound Control application<br>
+                   - Bağcılar Sports Center Generator Sound Loss of Transition application<br>
+                   - Channel 7 Studios Ambient Sound Control application<br>
+                   - City Theaters Muhsin Ertuğrul’s Sound Recording Studio<br>
+                   - AFM Cinemas Ambient Sound Control application and Sound Acoustic Arrangement<br>
+                   - Balmumcu Assan Generator Sound Loss of Transition application<br>
+                   - West Collage Conference Hall Acoustic Arrangement<br>
+                   - Do RE Mi Factory – Office part Sound Loss of Transition application<br>
+                   - Tuzla Center of Culture Theater and Cinema<br>
+                   - Fatih Center of Culture finishing works 15000m2<br>
+                   - Channel Türk Studios Acoustic Arrangement<br>
+                   - Erzurum  Cinema TV Sound Loss of Transition application<br>
                 </p>
               </div>
             </div>
@@ -334,6 +430,7 @@
           </div>
         </div>
       </div>
+
       <div class="section wf-section">
         <div class="container-default w-container">
           <div
@@ -346,7 +443,7 @@
             "
             class="container-small text-center my-skills"
           >
-            <h2 class="title my-skills">My Abilities</h2>
+            <h2 class="title my-skills">My Skills</h2>
             <img
               src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61140e796ab6559a19081f84_skills-underline-personal-x-template.svg"
               loading="lazy"
@@ -376,9 +473,9 @@
                 class="image skill-icon"
               />
               <h3 class="title skill-name">Features</h3>
-              <div class="title skill">Ability to manage people</div>
-              <div class="title skill">Ability to persuade</div>
-              <div class="title skill">Researcher</div>
+              <div class="title skill">Project Management</div>
+              <div class="title skill">Persuasive Speaker</div>
+              <div class="title skill">Leadership</div>
               <div class="title skill"></div>
               <div class="title skill last"></div>
             </div>
@@ -400,7 +497,7 @@
               />
               <h3 class="title skill-name">Software</h3>
               <div class="title skill">ACAD</div>
-              <div class="title skill">Office</div>
+              <div class="title skill">MS Office</div>
               <div class="title skill">MS Project</div>
               <div class="title skill"></div>
               <div class="title skill last"></div>

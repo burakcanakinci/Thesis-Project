@@ -32,19 +32,19 @@
           class="home-portfolio-slider-main-wrapper"
         >
           <div
-            data-delay="4000"
-            data-animation="slide"
-            class="home-porfolio-slider w-slider"
-            data-autoplay="false"
-            data-easing="ease"
-            data-hide-arrows="false"
-            data-disable-swipe="false"
-            data-autoplay-limit="0"
-            data-nav-spacing="3"
-            data-duration="500"
-            data-infinite="true"
-            role="region"
-            aria-label="carousel"
+            data-delay=""
+            data-animation=""
+            class=""
+            data-autoplay=""
+            data-easing=""
+            data-hide-arrows=""
+            data-disable-swipe=""
+            data-autoplay-limit=""
+            data-nav-spacing=""
+            data-duration=""
+            data-infinite=""
+            role=""
+            aria-label=""
           >
             <div
               class="home-portfolio-slider-mask w-slider-mask flex-direction-column"
@@ -65,14 +65,14 @@
                           Ağaoğlu Maslak 1453
                           </h3>
 
-                          <NuxtLink class="image portfolio-card" to="/slug">
+                          
                           <img
                             src="~/assets/image/Maslak-1453.jpg"
                             alt="Todo List Mobile App Redesign"
                             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-                            class="border-radius"
+                            class="border-radius image "
                           />
-                          </NuxtLink>
+                          
                         </div>
                         <div
                           class="split-content portfolio-card-bottom-content more-projects-margin-83"
@@ -105,14 +105,14 @@
                           <h3 class="title home-portfolio-card">
                           Ağaoğlu My Home Ayazağa
                           </h3>
-                          <NuxtLink class="image portfolio-card" to="/slug">
+                          
                           <img
                             src="~/assets/image/MyHomeAyazağa.jpg"
                             alt="Todo List Mobile App Redesign"
                             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-                            class="border-radius"
+                            class="border-radius image "
                           />
-                          </NuxtLink>
+                          
                         </div>
                         <div
                           class="split-content portfolio-card-bottom-content more-projects-margin-83"
