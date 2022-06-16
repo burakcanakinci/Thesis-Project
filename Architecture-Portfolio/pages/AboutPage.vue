@@ -346,7 +346,7 @@
             "
             class="container-small text-center my-skills"
           >
-            <h2 class="title my-skills">My Skills</h2>
+            <h2 class="title my-skills">My Abilities</h2>
             <img
               src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61140e796ab6559a19081f84_skills-underline-personal-x-template.svg"
               loading="lazy"
@@ -370,17 +370,17 @@
               class="card skill-card first"
             >
               <img
-                src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61140f8059c9332ddb393562_skill-icon-01-personal-x-template.svg"
+                src="~/assets/image/settings-6-fill.png"
                 loading="eager"
                 alt="Design - You X Webflow Template"
                 class="image skill-icon"
               />
-              <h3 class="title skill-name">Design</h3>
-              <div class="title skill">UI/UX Design</div>
-              <div class="title skill">Product Design</div>
-              <div class="title skill">Web Design</div>
-              <div class="title skill">Design Thinking</div>
-              <div class="title skill last">Branding</div>
+              <h3 class="title skill-name">Features</h3>
+              <div class="title skill">Ability to manage people</div>
+              <div class="title skill">Ability to persuade</div>
+              <div class="title skill">Researcher</div>
+              <div class="title skill"></div>
+              <div class="title skill last"></div>
             </div>
             <div
               data-w-id="3d66b597-9023-cbc4-30d5-27bbfe12d899"
@@ -393,17 +393,17 @@
               class="card skill-card center"
             >
               <img
-                src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61140f802d167b3412c5a3d0_skill-icon-02-personal-x-template.svg"
+                src="~/assets/image/window-fill.png"
                 loading="eager"
                 alt="Development - You X Webflow Template"
                 class="image skill-icon"
               />
-              <h3 class="title skill-name">Development</h3>
-              <div class="title skill">HTML &amp; CSS</div>
-              <div class="title skill">Javascript</div>
-              <div class="title skill">React</div>
-              <div class="title skill">React Native</div>
-              <div class="title skill last">No Code</div>
+              <h3 class="title skill-name">Software</h3>
+              <div class="title skill">ACAD</div>
+              <div class="title skill">Office</div>
+              <div class="title skill">MS Project</div>
+              <div class="title skill"></div>
+              <div class="title skill last"></div>
             </div>
             <div
               data-w-id="e4cf7257-eb4e-d9e9-fc2a-3ea6d73e14ff"
@@ -416,17 +416,17 @@
               class="card skill-card last"
             >
               <img
-                src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61140f8020e63656704c6b6d_skill-icon-03-personal-x-template.svg"
+                src="~/assets/image/run-line.png"
                 loading="eager"
                 alt="Tools - You X Webflow Template"
                 class="image skill-icon"
               />
-              <h3 class="title skill-name">Tools</h3>
-              <div class="title skill">Webflow</div>
-              <div class="title skill">Figma</div>
-              <div class="title skill">Notion</div>
-              <div class="title skill">Photoshop</div>
-              <div class="title skill last">Illustrator</div>
+              <h3 class="title skill-name">Hobbies</h3>
+              <div class="title skill">Cooking</div>
+              <div class="title skill">Swimming</div>
+              <div class="title skill">Nature Trekking</div>
+              <div class="title skill"></div>
+              <div class="title skill last"></div>
             </div>
           </div>
         </div>

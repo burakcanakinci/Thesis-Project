@@ -4571,6 +4571,7 @@ html {
   }
   
   @media screen and (max-width: 767px) {
+
     .w-commerce-commercelayoutcontainer {
       -webkit-box-orient: vertical;
       -webkit-box-direction: normal;
@@ -4598,6 +4599,9 @@ html {
   }
   
   @media screen and (max-width: 479px) {
+    .see-full-resume {
+      margin-right: 95px;
+    }
     
     .w-commerce-commercecartcontainerwrapper--cartType-modal {
       -webkit-box-orient: horizontal;
@@ -8381,14 +8385,7 @@ html {
     font-weight: 700;
   }
   
-  /* @media screen and (max-width: 871px) {
-    .footer-menu-wrapper{
-      display: block;
-    }
-    .pages-up {
-      display: block;
-    }
-  } */
+  
 
   @media screen and (min-width: 1024px) {
     .top-content {
@@ -8426,7 +8423,10 @@ html {
   }
 
   @media screen and (max-width: 991px) {
-    
+    .top-content {
+      padding-left: 100px;
+      padding-right: 100px;
+    }
     .footer-div {
       display: flex;
       
@@ -9378,6 +9378,10 @@ html {
   }
   
   @media screen and (max-width: 767px) {
+    .top-content {
+      padding-left: 30px;
+      padding-right: 30px;
+    }
     .footer-menu-wrapper2 {
       margin-top: 100px;
       margin-left: 130px;
@@ -10397,6 +10401,9 @@ html {
   }
   
   @media screen and (max-width: 479px) {
+    .top-content {
+      padding-left: 30px;
+    }
     .more-projects-width{
       width: 208%;
     }

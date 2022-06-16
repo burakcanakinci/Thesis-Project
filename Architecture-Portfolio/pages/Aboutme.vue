@@ -41,11 +41,9 @@
               I love what I do and I love sharing my experience.<br>
               You can see more about my background from below
             </p>
-            <a
-              ><NuxtLink class="button-primary w-button" to="/AboutPage"
-                >More about me</NuxtLink
-              ></a
-            >
+            <a>
+              <NuxtLink class="button-primary w-button" to="/AboutPage">More about me</NuxtLink>
+            </a>
           </div>
         </div>
       </div>
@@ -58,7 +56,7 @@
         transform-style: preserve-3d;
         opacity: 1;
       "
-      class="top-content resume-top-content"
+      class="top-content resume-top-content see-full-resume"
     >
       <h2 class="title resume-section">Take a look at my resume</h2>
       <img

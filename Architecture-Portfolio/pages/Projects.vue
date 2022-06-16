@@ -210,8 +210,7 @@
                 style="transform: translateX(0px); opacity: 1"
               >
                 <div>
-                <a  class="button-primary w-button">More Projects</a
-                >
+                <a><NuxtLink class="button-primary w-button" to="/MoreProjects">More Projects</NuxtLink></a>
               </div>
               </div>
               <div
@@ -355,21 +354,18 @@
     </div>   
 </template>
 <script>
+import NuxtLogo from '~/components/NuxtLogo.vue'
   export default {
-    data: () => ({
-      
-    }),
+    data: () => ({}),
     mounted() {
-      const recaptchaScript = document.createElement('script')
-      recaptchaScript.setAttribute('src', 'https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=61129bb2ecedf803564c68ec')
-      document.head.appendChild(recaptchaScript)
-
-      const deneme = document.createElement('script')
-      deneme.setAttribute('src', 'https://assets.website-files.com/61129bb2ecedf803564c68ec/js/webflow.19742290c.js')
-      document.head.appendChild(deneme)
+        const recaptchaScript = document.createElement("script");
+        recaptchaScript.setAttribute("src", "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=61129bb2ecedf803564c68ec");
+        document.head.appendChild(recaptchaScript);
+        const deneme = document.createElement("script");
+        deneme.setAttribute("src", "https://assets.website-files.com/61129bb2ecedf803564c68ec/js/webflow.19742290c.js");
+        document.head.appendChild(deneme);
     },
-    methods: {
-      
-    }
-  }
+    methods: {},
+    components: { NuxtLogo }
+}
 </script>
