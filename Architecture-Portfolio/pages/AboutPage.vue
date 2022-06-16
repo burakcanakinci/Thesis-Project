@@ -3,7 +3,7 @@
     <div class="section about-hero wf-section">
         <div class="container-default w-container">
             <div class="hero-about-wrapper">
-                <img src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6113fef6fd44a261b8498282_hero-about-image-personal-x-template.jpg"
+                <img src="~/assets/image/laptop-down.jpeg"
                     alt=""
                     sizes="(max-width: 479px) 93vw, (max-width: 767px) 94vw, (max-width: 991px) 95vw, (max-width: 1439px) 43vw, 552px"
                     style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
@@ -11,10 +11,6 @@
                             opacity: 1;
                             transform-style: preserve-3d;"
                     data-w-id="2878c835-49d2-aa9e-0fe3-471325ec5814"
-                    srcset="https://assets.website-files.com/61129bb2ecedf803564c68ec/6113fef6fd44a261b8498282_hero-about-image-personal-x-template-p-500.jpeg   500w,
-                    https://assets.website-files.com/61129bb2ecedf803564c68ec/6113fef6fd44a261b8498282_hero-about-image-personal-x-template-p-800.jpeg   800w,
-                    https://assets.website-files.com/61129bb2ecedf803564c68ec/6113fef6fd44a261b8498282_hero-about-image-personal-x-template-p-1080.jpeg 1080w,
-                    https://assets.website-files.com/61129bb2ecedf803564c68ec/6113fef6fd44a261b8498282_hero-about-image-personal-x-template.jpg         1146w"
                     alt="About Image - You X Webflow Template"
                     class="image hero-about-wrapper"
                 >
@@ -94,7 +90,7 @@
                     id="w-node-_28d8b925-f381-1676-938b-22b5ac2a0b83-ecb625a8"
                     class="split-content my-story-image-wraper"
                 >
-                    <img src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6113fef672a98d4e6ffe7c75_about-image-02-personal-x-template.jpg"
+                    <img src="~/assets/image/laptop-face.jpeg"
                          alt="About Image - You X Webflow Template"
                          sizes="100vw"
                          style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
@@ -102,13 +98,9 @@
                                 opacity: 1;
                                 transform-style: preserve-3d;"
                         data-w-id="452c3ecc-fcc9-ddf2-ae18-f4a92b6d6bbd"
-                        srcset="https://assets.website-files.com/61129bb2ecedf803564c68ec/6113fef672a98d4e6ffe7c75_about-image-02-personal-x-template-p-500.jpeg   500w,
-                                https://assets.website-files.com/61129bb2ecedf803564c68ec/6113fef672a98d4e6ffe7c75_about-image-02-personal-x-template-p-800.jpeg   800w,
-                                https://assets.website-files.com/61129bb2ecedf803564c68ec/6113fef672a98d4e6ffe7c75_about-image-02-personal-x-template-p-1080.jpeg 1080w,
-                                https://assets.website-files.com/61129bb2ecedf803564c68ec/6113fef672a98d4e6ffe7c75_about-image-02-personal-x-template.jpg         1160w"
                         class="image my-story"
                     >
-                    <img src="https://assets.website-files.com/61129bb2ecedf803564c68ec/6113fef672a98d3f18fe7c74_about-image-01-personal-x-template.jpg"
+                    <img src="~/assets/image/laptop-sit.jpeg"
                          alt="About Image - You X Webflow Template"
                          sizes="100vw"
                          style="
@@ -117,10 +109,6 @@
                                 opacity: 1;
                                 transform-style: preserve-3d;"
                          data-w-id="3e502f5f-ca3d-1585-81f7-04c949529f43"
-                         srcset="https://assets.website-files.com/61129bb2ecedf803564c68ec/6113fef672a98d3f18fe7c74_about-image-01-personal-x-template-p-500.jpeg   500w,
-                                 https://assets.website-files.com/61129bb2ecedf803564c68ec/6113fef672a98d3f18fe7c74_about-image-01-personal-x-template-p-800.jpeg   800w,
-                                 https://assets.website-files.com/61129bb2ecedf803564c68ec/6113fef672a98d3f18fe7c74_about-image-01-personal-x-template-p-1080.jpeg 1080w,
-                                 https://assets.website-files.com/61129bb2ecedf803564c68ec/6113fef672a98d3f18fe7c74_about-image-01-personal-x-template.jpg         1160w"
                          class="image my-story last"
                     >
                 </div>
@@ -430,9 +418,114 @@
           </div>
         </div>
       </div>
+<h2 class="title my-skills center padding-top2">Seminars & Courses</h2>
+        <div class="container-default w-container padding-top">
+            <div class="resume-main-wrapper">
+                <div class="_2-column-grid resume-grid">
+                    <div
+                        data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571c8"
+                        style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
+                               rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
+                               opacity: 1;
+                               transform-style: preserve-3d;"
+                        class="card resume-card"
+                    >
+                        <a 
+                           target="_blank"
+                           class="resume-social-links-wrapper w-inline-block"
+                        >
+                          <div class="flex">
+                              <img src="~/assets/image/fridge-line.png"
+                                    alt="Facebook - You X Webflow Template"
+                                    loading="lazy"
+                                    class="image resume-social-logo"
+                              >
+                              <div class="hc-flex resume-social-link">
 
+                              </div>
+                          </div>
+                        </a>
+                <div class="top-content resume-top-card-content"
+                     style="padding-right: 0px;">
+                  <h3 class="title resume-title">STO Term Germany</h3>
+                  <div>2006 - 2007&emsp;</div>
+                </div>
+                <p class="paragraph">
+                  Acoustic and Heat Isolation Course
+                </p>
+              </div>
+              <div
+                        data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571c8"
+                        style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
+                               rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
+                               opacity: 1;
+                               transform-style: preserve-3d;"
+                        class="card resume-card"
+                    >
+                        <a 
+                           target="_blank"
+                           class="resume-social-links-wrapper w-inline-block"
+                        >
+                          <div class="flex">
+                              <img src="~/assets/image/drizzle-line.png"
+                                    alt="Facebook - You X Webflow Template"
+                                    loading="lazy"
+                                    class="image resume-social-logo"
+                              >
+                              <div class="hc-flex resume-social-link">
+
+                              </div>
+                          </div>
+                        </a>
+                <div class="top-content resume-top-card-content"
+                     style="padding-right: 0px;">
+                  <h3 class="title resume-title">Istanbul Architectures Room</h3>
+                  <div>1999&emsp;&emsp;</div>
+                </div>
+                <p class="paragraph">
+                  &emsp;ACAD Course
+                </p>
+              </div>
+              <div
+                        data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571c8"
+                        style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
+                               rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
+                               opacity: 1;
+                               transform-style: preserve-3d;"
+                        class="card resume-card"
+                    >
+                        <a 
+                           target="_blank"
+                           class="resume-social-links-wrapper w-inline-block"
+                        >
+                          <div class="flex">
+                              <img src="~/assets/image/sound-module-line.png"
+                                    alt="Facebook - You X Webflow Template"
+                                    loading="lazy"
+                                    class="image resume-social-logo"
+                              >
+                              <div class="hc-flex resume-social-link">
+
+                              </div>
+                          </div>
+                        </a>
+                <div class="top-content resume-top-card-content"
+                     style="padding-right: 0px;">
+                  <h3 class="title resume-title">İzocam Isolation and Education Center IYEM</h3>
+                  <div>2000&emsp;&emsp;</div>
+                </div>
+                <p class="paragraph">
+                  - Sound B : Noice Control              <br>&emsp;Manager: Prof.Dr. H. Nevzat Özgüven<br>
+                  - Sound C : Archtitectural Acoustic    <br>&emsp;Manager: Prof.Dr. Mehmet Çalışkan<br>
+                  - Sound D : Applied Sound Isolation    <br>&emsp;Manager: Korhan Işıkel<br>
+                </p>
+              </div>
+            </div>
+            <div class="bg resume-square"></div>
+          </div>
+        </div>
       <div class="section wf-section">
-        <div class="container-default w-container">
+        <div class="container-default w-container padding-top2">
           <div
             data-w-id="ad274269-b5f3-6f60-bdba-b6b124cb8a17"
             style="

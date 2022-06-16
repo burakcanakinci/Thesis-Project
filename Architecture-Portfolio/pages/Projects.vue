@@ -78,8 +78,7 @@
                            <NuxtLink to="/slug">Ağaoğlu Maslak 1453</NuxtLink>
                           </h3>
                           <p class="paragraph home-portfolio-card">
-                            <!-- Bu projede falan filan olmuştur ama şu fotoların
-                            size ları düzeltilmesi gerek. -->
+                            
                           </p>
                           <div class="hc-flex read-case-study">
                             <div>Take a look</div>
@@ -125,8 +124,7 @@
                            <NuxtLink to="/slug">Ağaoğlu My Home Ayazağa</NuxtLink>
                           </h3>
                           <p class="paragraph home-portfolio-card">
-                            <!-- Bu projede falan filan olmuştur ama şu fotoların
-                            size ları düzeltilmesi gerek. -->
+                            
                           </p>
                           <div class="hc-flex read-case-study">
                             <div>Take a look</div>
@@ -270,78 +268,6 @@
                 class="w-slider-dot"
                 data-wf-ignore=""
                 aria-label="Show slide 4 of 12"
-                aria-pressed="false"
-                role="button"
-                tabindex="-1"
-                style="margin-left: 3px; margin-right: 3px"
-              ></div>
-              <div
-                class="w-slider-dot"
-                data-wf-ignore=""
-                aria-label="Show slide 5 of 12"
-                aria-pressed="false"
-                role="button"
-                tabindex="-1"
-                style="margin-left: 3px; margin-right: 3px"
-              ></div>
-              <div
-                class="w-slider-dot"
-                data-wf-ignore=""
-                aria-label="Show slide 6 of 12"
-                aria-pressed="false"
-                role="button"
-                tabindex="-1"
-                style="margin-left: 3px; margin-right: 3px"
-              ></div>
-              <div
-                class="w-slider-dot"
-                data-wf-ignore=""
-                aria-label="Show slide 7 of 12"
-                aria-pressed="false"
-                role="button"
-                tabindex="-1"
-                style="margin-left: 3px; margin-right: 3px"
-              ></div>
-              <div
-                class="w-slider-dot"
-                data-wf-ignore=""
-                aria-label="Show slide 8 of 12"
-                aria-pressed="false"
-                role="button"
-                tabindex="-1"
-                style="margin-left: 3px; margin-right: 3px"
-              ></div>
-              <div
-                class="w-slider-dot"
-                data-wf-ignore=""
-                aria-label="Show slide 9 of 12"
-                aria-pressed="false"
-                role="button"
-                tabindex="-1"
-                style="margin-left: 3px; margin-right: 3px"
-              ></div>
-              <div
-                class="w-slider-dot"
-                data-wf-ignore=""
-                aria-label="Show slide 10 of 12"
-                aria-pressed="false"
-                role="button"
-                tabindex="-1"
-                style="margin-left: 3px; margin-right: 3px"
-              ></div>
-              <div
-                class="w-slider-dot"
-                data-wf-ignore=""
-                aria-label="Show slide 11 of 12"
-                aria-pressed="false"
-                role="button"
-                tabindex="-1"
-                style="margin-left: 3px; margin-right: 3px"
-              ></div>
-              <div
-                class="w-slider-dot"
-                data-wf-ignore=""
-                aria-label="Show slide 12 of 12"
                 aria-pressed="false"
                 role="button"
                 tabindex="-1"
