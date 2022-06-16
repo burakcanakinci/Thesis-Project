@@ -36,7 +36,7 @@
                 
                 sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, (max-width: 991px) 472px, (max-width: 1439px) 47vw, 588px"
                 alt="Product Designer - You X Webflow Template"
-                class="image hero-image"
+                class="image hero-image border-radius"
               />
             </div>
           </div>

@@ -57,7 +57,8 @@
                     <p class="paragraph my-story-paragraph">
                         I always had dreams and I always pursued them.
                         Every problem I faced in my life, I never gave up.
-                        When I got the job as a manager in the biggest construction project in Turkey,
+                        When I got the job as a manager in the biggest construction project in Turkey
+                        (Ağaoğlu Maslak 1453),
                         I knew this oppurtunity was one in a million. I influenced a lot of new graduates
                         and worked with young architects during this project.<br>
                         I'm always looking forward to learn more and develop more...
