@@ -8423,6 +8423,10 @@ html {
   }
 
   @media screen and (max-width: 991px) {
+    .image-smaller {
+      width: 75%;
+      border-radius: 24px;
+    }
     .top-content {
       padding-left: 100px;
       padding-right: 100px;

@@ -17,7 +17,7 @@
               src="~/assets/image/pink-hat.jpeg"
               sizes="(max-width: 479px) 93vw, (max-width: 767px) 94vw, (max-width: 991px) 95vw, (max-width: 1439px) 47vw, 589.4765625px"
               alt="About Product Designer - You X Webflow Template"
-              class="image home-about"
+              class="image home-about image-smaller"
             />
           </div>
           <div
