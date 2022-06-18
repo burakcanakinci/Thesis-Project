@@ -70,8 +70,14 @@
                                   class="border-radius image"
                                   />
                                   <div class="wg-box-content-details wg-box-fadeIn-bottom">
-                                    <h3 class="wg-box-content-title">This is a title</h3>
-                                    <p class="wg-box-content-text">This is a short description</p>
+                                      <h3 class="wg-box-content-title">Project Manager - AB Section</h3>
+                                      <p class="wg-box-content-text">
+                                        10.2014 - 10.2018<br></br>
+                                        &emsp;<b>Head of Construction Group</b><br></br>
+                                        1 870 000m2, 3880 Residences, 1000 Offices, University,<br>
+                                        Shopping Mall, Hotel, 10 Cinema Halls, 3 Congress Halls,<br>
+                                        32 Blocks between 11 and 51 variable floors<br>
+                                      </p>
                                   </div>
                                 </a>
                               </div>
@@ -83,7 +89,7 @@
             </div>
         </div>
     </div>
-                   <div aria-label="1 of 12"
+                   <div aria-label="2 of 12"
     role="group"
     class="home-portfolio-slide w-slide"
     style="transform: translateX(0px); opacity: 1">
@@ -103,8 +109,13 @@
                                   class="border-radius image"
                                   />
                                   <div class="wg-box-content-details wg-box-fadeIn-bottom">
-                                    <h3 class="wg-box-content-title">This is a title</h3>
-                                    <p class="wg-box-content-text">This is a short description</p>
+                                      <h3 class="wg-box-content-title">Deputy Project Manager<br>Decoration Works Manager</h3>
+                                      <p class="wg-box-content-text">
+                                        05.2013 - 10.2014<br></br>
+                                        260000m2, 800 Residences,<br>
+                                        100 Offices, Markets,<br>
+                                        3 Blocks with 41 floors<br>
+                                      </p>
                                   </div>
                                 </a>
                               </div>
@@ -116,7 +127,7 @@
             </div>
         </div>
     </div>
-                   <div aria-label="1 of 12"
+                   <div aria-label="3 of 12"
     role="group"
     class="home-portfolio-slide w-slide"
     style="transform: translateX(0px); opacity: 1">
@@ -149,7 +160,7 @@
             </div>
         </div>
     </div>
-                   <div aria-label="1 of 12"
+                   <div aria-label="4 of 12"
     role="group"
     class="home-portfolio-slide w-slide"
     style="transform: translateX(0px); opacity: 1">
@@ -182,7 +193,7 @@
             </div>
         </div>
     </div>
-                   <div aria-label="1 of 12"
+                   <div aria-label="5 of 12"
     role="group"
     class="home-portfolio-slide w-slide"
     style="transform: translateX(0px); opacity: 1">
