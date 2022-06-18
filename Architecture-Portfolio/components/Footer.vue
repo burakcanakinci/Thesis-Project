@@ -21,12 +21,9 @@
                             </li>
                             <li class="footer-nav-item opacity">
                                 <a href="/aboutPage" class="footer-link">About</a>
-                            </li>
-                            <!-- <li class="footer-nav-item opacity">
-                                <a href="/contact" class="footer-link">Contact</a>
-                            </li> -->
+                            </li> 
                             <li class="footer-nav-item opacity">
-                                <a href="#aboutMe" class="footer-link">Portfolio</a>
+                                <a href="/Gallery" class="footer-link">Gallery</a>
                             </li>
                         </ul>
                         <ul role="list" class="footer-nav last w-list-unstyled">
@@ -120,10 +117,7 @@
                                 <a href="/about" class="footer-link">About</a>
                             </li>
                             <li class="footer-nav-item opacity">
-                                <a href="/contact" class="footer-link">Contact</a>
-                            </li>
-                            <li class="footer-nav-item opacity">
-                                <a href="/portfolio" class="footer-link">Portfolio</a>
+                                <a href="/Gallery" class="footer-link">Gallery</a>
                             </li>
                         </ul>
                         <ul role="list" class="footer-nav last w-list-unstyled">
