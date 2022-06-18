@@ -59,29 +59,28 @@
                   <div role="list" class="w-dyn-items">
                     <div role="listitem" class="w-dyn-item">
                       <a
-                        href="
-                        "
-                        class="card home-portfolio-card w-inline-block"
-                        ><div class="image-wrapper portfolio-card2">
+                        class="card home-portfolio-card w-inline-block">
+                        <div class="image-wrapper portfolio-card2">
+                          <NuxtLink to="/MoreProjects">
                           <img
                             src="~/assets/image/Maslak-1453.jpg"
                             alt="Todo List Mobile App Redesign"
                             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-                            
                             class="image portfolio-card"
                           />
+                          </NuxtLink>
                         </div>
                         <div
                           class="split-content portfolio-card-bottom-content"
                         >
                           <h3 class="title home-portfolio-card">
-                           <NuxtLink to="/slug">Ağaoğlu Maslak 1453</NuxtLink>
+                           <NuxtLink to="/MoreProjects">Ağaoğlu Maslak 1453</NuxtLink>
                           </h3>
                           <p class="paragraph home-portfolio-card">
                             
                           </p>
                           <div class="hc-flex read-case-study">
-                            <div>Take a look</div>
+                            <div><NuxtLink to="/MoreProjects">Take a look</NuxtLink></div>
                             <img
                               src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
                               loading="eager"
@@ -109,25 +108,28 @@
                         "
                         class="card home-portfolio-card w-inline-block"
                         ><div class="image-wrapper portfolio-card2">
+                          <NuxtLink to="/MoreProjects">
                           <img
                             src="~/assets/image/MyHomeAyazağa.jpg"
                             alt="Todo List Mobile App Redesign"
                             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-                            
                             class="image portfolio-card"
                           />
+                          </NuxtLink>
                         </div>
                         <div
                           class="split-content portfolio-card-bottom-content"
                         >
                           <h3 class="title home-portfolio-card">
-                           <NuxtLink to="/slug">Ağaoğlu My Home Ayazağa</NuxtLink>
+                           <div>
+                            <a><NuxtLink to="/MoreProjects">Ağaoğlu My Home Ayazağa</NuxtLink></a>
+                          </div>
                           </h3>
                           <p class="paragraph home-portfolio-card">
                             
                           </p>
                           <div class="hc-flex read-case-study">
-                            <div>Take a look</div>
+                            <div><NuxtLink to="/MoreProjects">Take a look</NuxtLink></div>
                             <img
                               src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
                               loading="eager"
@@ -160,14 +162,15 @@
                           class="image-wrapper portfolio-card2"
                           aria-hidden="true"
                         >
+                        <NuxtLink to="/MoreProjects">
                           <img
                             src="~/assets/image/wow.webp"
                             alt="Task Manager Web App Design"
                             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-                            
                             class="image portfolio-card"
                             aria-hidden="true"
                           />
+                          </NuxtLink>
                         </div>
                         <div
                           class="split-content portfolio-card-bottom-content"
@@ -177,7 +180,9 @@
                             class="title home-portfolio-card"
                             aria-hidden="true"
                           >
-                             <NuxtLink to="/slug">Wow Congress Center Istanbul</NuxtLink>
+                          <div>
+                            <a><NuxtLink to="/MoreProjects">Wow Congress Center Istanbul</NuxtLink></a>
+                          </div>
                           </h3>
                           <p class="paragraph home-portfolio-card" aria-hidden="true">
                           
@@ -186,7 +191,7 @@
                             class="hc-flex read-case-study"
                             aria-hidden="true"
                           >
-                            <div aria-hidden="true">Take a look</div>
+                            <div><NuxtLink to="/MoreProjects">Take a look</NuxtLink></div>
                             <img
                               src="https://assets.website-files.com/61129bb2ecedf803564c68ec/61155e76b0500d608ffb874e_arrow-personal-x-template.svg"
                               loading="eager"
@@ -209,7 +214,7 @@
               >
                 <div>
                 <a><NuxtLink class="button-primary w-button" to="/MoreProjects">More Projects</NuxtLink></a>
-              </div>
+                </div>
               </div>
               <div
                 aria-live="off"

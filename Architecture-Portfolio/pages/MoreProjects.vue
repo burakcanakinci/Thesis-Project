@@ -76,7 +76,8 @@
                                         &emsp;<b>Head of Construction Group</b><br></br>
                                         1 870 000m2, 3880 Residences, 1000 Offices, University,<br>
                                         Shopping Mall, Hotel, 10 Cinema Halls, 3 Congress Halls,<br>
-                                        32 Blocks between 11 and 51 variable floors<br>
+                                        32 Blocks between 11 and 51 variable floors<br></br>
+                                        Reference: Abdullah Murad ACAR - General Coordinator
                                       </p>
                                   </div>
                                 </a>
@@ -114,7 +115,8 @@
                                         05.2013 - 10.2014<br></br>
                                         260000m2, 800 Residences,<br>
                                         100 Offices, Markets,<br>
-                                        3 Blocks with 41 floors<br>
+                                        3 Blocks with 41 floors<br></br>
+                                        Reference: Adem Yıldırım - Project Manager
                                       </p>
                                   </div>
                                 </a>
@@ -147,8 +149,12 @@
                                   class="border-radius image"
                                   />
                                   <div class="wg-box-content-details wg-box-fadeIn-bottom">
-                                    <h3 class="wg-box-content-title">This is a title</h3>
-                                    <p class="wg-box-content-text">This is a short description</p>
+                                      <h3 class="wg-box-content-title">Project Manager</h3>
+                                      <p class="wg-box-content-text">
+                                        02.2011 - 06.2011<br></br>
+                                        2500m2 Construciton Zone<br></br>
+                                        Reference: Enver Küçükalı (Serpent Architecture)
+                                      </p>
                                   </div>
                                 </a>
                               </div>
@@ -180,8 +186,12 @@
                                   class="border-radius image"
                                   />
                                   <div class="wg-box-content-details wg-box-fadeIn-bottom">
-                                    <h3 class="wg-box-content-title">This is a title</h3>
-                                    <p class="wg-box-content-text">This is a short description</p>
+                                      <h3 class="wg-box-content-title">Project Manager</h3>
+                                      <p class="wg-box-content-text">
+                                        10.2009 - 02.2011<br></br>
+                                        19000m2 Construciton Zone<br></br>
+                                        Reference: Enver Küçükalı (Serpent Architecture)
+                                      </p>
                                   </div>
                                 </a>
                               </div>
@@ -213,8 +223,12 @@
                                   class="border-radius image"
                                   />
                                   <div class="wg-box-content-details wg-box-fadeIn-bottom">
-                                    <h3 class="wg-box-content-title">This is a title</h3>
-                                    <p class="wg-box-content-text">This is a short description</p>
+                                      <h3 class="wg-box-content-title">Site Chief</h3>
+                                      <p class="wg-box-content-text">
+                                        06.2011 - 04.2012<br></br>
+                                        15000m2 Construciton Zone<br></br>
+                                        Reference: Muzaffer Küpe
+                                      </p>
                                   </div>
                                 </a>
                               </div>

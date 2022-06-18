@@ -35,7 +35,7 @@
                 <a><NuxtLink class="nav-link opacity" to="/AboutPage">About</NuxtLink></a>
               </li>
               <li class="nav-item-wrapper">
-                <a href="#aboutMe" class="nav-link opacity">Portfolio</a>
+                <a><NuxtLink class="nav-link opacity" to="/Gallery">Gallery</NuxtLink></a>
               </li>
               <li class="nav-item-wrapper">
                 <div

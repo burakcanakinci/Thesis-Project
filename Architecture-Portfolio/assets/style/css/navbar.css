@@ -11463,4 +11463,30 @@ html {
   .padding-top2 {
     padding-top: 150px;
   }
+  .background-color {
+    height: 30000px;
+    background: linear-gradient(180deg, #6B705C 0%, #CB997E 15%,
+                                        #A09881 30%, #FFE8D6 45%,
+                                        #807362 60%, #24211C 75%,
+                                        #FFE8D6 45%, #807362 60%,
+                                        #24211C 75%, #FFE8D6 90%,
+                                        #A4594C 99%);
+    /* background: linear-gradient(180deg, #A4594C 0%, #FFE8D6 51%, #24211C 75%); */
+  }
   
+  :root {
+    --textColor: #24211C;
+    --2xLightGray: #FBFAF9;
+    --lightGray: #F0EFEB;
+    --mediumGray: #A09881;
+    --darkGray: #807362;
+    --darkGreen: #6B705C;
+    --mediumGreen: #A5A58D;
+    --lightGreen: #F5F5F3;
+    --lightCream: #FFFAF6;
+    --mediumCream: #FFE8D6;
+    --lightBrown: #DDBEA9;
+    --mediumBrown: #CB997E;
+    --paleRed: #A4594C;
+
+}
