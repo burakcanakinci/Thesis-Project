@@ -916,6 +916,13 @@ html {
     }
   }
   @media screen and (max-width: 479px) {
+    .background-color {
+      height: 19000px;
+      background: linear-gradient(180deg, #6B705C 0%, #CB997E 20%,
+                                          #A09881 40%, #FFE8D6 60%,
+                                          #807362 80%, #A4594C 99%);
+      /* background: linear-gradient(180deg, #A4594C 0%, #FFE8D6 51%, #24211C 75%); */
+    }
     .footer-menu-wrapper2 {
       margin-top: 100px;
       margin-left: 25px;
@@ -8388,6 +8395,12 @@ html {
   
 
   @media screen and (min-width: 1024px) {
+    .background-color {
+      height: 15000px;
+      background: linear-gradient(180deg, #6B705C 0%, #CB997E 20%,
+                                          #A09881 40%, #FFE8D6 60%,
+                                          #807362 80%, #A4594C 99%);
+    }
     .top-content {
       /* padding-left: 170px; */
       padding-right: 170px;
@@ -11463,30 +11476,7 @@ html {
   .padding-top2 {
     padding-top: 150px;
   }
-  .background-color {
-    height: 19000px;
-    background: linear-gradient(180deg, #6B705C 0%, #CB997E 20%,
-                                        #A09881 40%, #FFE8D6 60%,
-                                        #807362 80%, #A4594C 99%);
-    /* background: linear-gradient(180deg, #A4594C 0%, #FFE8D6 51%, #24211C 75%); */
-  }
+  
   .padding {
     padding: 50px;
   }
-  
-  :root {
-    --textColor: #24211C;
-    --2xLightGray: #FBFAF9;
-    --lightGray: #F0EFEB;
-    --mediumGray: #A09881;
-    --darkGray: #807362;
-    --darkGreen: #6B705C;
-    --mediumGreen: #A5A58D;
-    --lightGreen: #F5F5F3;
-    --lightCream: #FFFAF6;
-    --mediumCream: #FFE8D6;
-    --lightBrown: #DDBEA9;
-    --mediumBrown: #CB997E;
-    --paleRed: #A4594C;
-
-}
