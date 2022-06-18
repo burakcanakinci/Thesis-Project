@@ -1,7 +1,11 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+  target: 'static',
   head: {
     title: 'Architecture-Portfolio',
+    router: {
+      base: '/Thesis-Project/'
+    },
     htmlAttrs: {
       lang: 'en',
     },
