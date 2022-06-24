@@ -22,7 +22,7 @@
       <div class="col-md-4">
         <form @submit.prevent="submitRecipe">
           <div class="form-group">
-            <label for>bok</label>
+            <label for>Recipe Name</label>
             <input type="text" class="form-control" v-model="recipe.name">
           </div>
           <div class="form-group">
@@ -121,12 +121,6 @@ export default {
   }
 };
 </script>
-<script>
-export default {
-  layout: 'admin',
-  // OR
-  layout (context) {
-    return 'admin'
-  }
-}
-</script>
+
+<style scoped>
+</style>
