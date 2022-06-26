@@ -4,7 +4,7 @@
     <div class="card-body">
       <h5 class="card-title">{{ recipe.name }}</h5>
       <p class="card-text">
-        <strong>Ingredients:</strong> {{ recipe.ingredients }}
+        <strong>Information</strong> {{ recipe.ingredients }}
       </p>
       <div class="action-buttons">
         <nuxt-link :to="`/recipes/${recipe.id}/`" class="btn btn-sm btn-success">View</nuxt-link>
@@ -20,9 +20,3 @@ export default {
     props: ["recipe", "onDelete"]
 };
 </script>
-
-<style>
-.recipe-card {
-    box-shadow: 0 1rem 1.5rem rgba(0,0,0,.6);
-}
-</style>

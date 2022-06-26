@@ -11,41 +11,16 @@
       <div class="col-md-4">
         <form @submit.prevent="submitRecipe">
           <div class="form-group">
-            <label for>Recipe Name</label>
+            <label for>Project Name</label>
             <input type="text" class="form-control" v-model="recipe.name" >
           </div>
           <div class="form-group">
-            <label for>Ingredients</label>
-            <input type="text" v-model="recipe.ingredients" class="form-control" name="Ingredients" >
+            <label for>Information</label>
+            <textarea type="text" v-model="recipe.ingredients" class="form-control" rows="8" name="Ingredients"></textarea>
           </div>
           <div class="form-group">
-            <label for>Food picture</label>
+            <label for>Project picture</label>
             <input type="file" @change="onFileChange">
-          </div>
-          <div class="row">
-            <div class="col-md-6">
-              <div class="form-group">
-                <label for>Difficulty</label>
-                <select v-model="recipe.difficulty" class="form-control" >
-                  <option value="Easy">Easy</option>
-                  <option value="Medium">Medium</option>
-                  <option value="Hard">Hard</option>
-                </select>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <div class="form-group">
-                <label for>
-                  Prep time
-                  <small>(minutes)</small>
-                </label>
-                <input type="text" v-model="recipe.prep_time" class="form-control" name="Ingredients" >
-              </div>
-            </div>
-          </div>
-          <div class="form-group mb-3">
-            <label for>Preparation guide</label>
-            <textarea v-model="recipe.prep_guide" class="form-control" rows="8"></textarea>
           </div>
           <button type="submit" class="btn btn-success">Save</button>
         </form>
@@ -55,7 +30,10 @@
 </template>
 
 <script>
+import { isNull } from 'url/util';
+
 export default {
+  layout: 'edit',
   head(){
       return {
         title: "Edit Recipe"
@@ -77,7 +55,7 @@ export default {
         ingredients: "",
         difficulty: "",
         prep_time: null,
-        prep_guide: ""
+        prep_guide: "",
       },
       preview: ""
     };

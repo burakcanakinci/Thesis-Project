@@ -92,14 +92,14 @@
     </div>
                    <div aria-label="2 of 12"
     role="group"
-    class="home-portfolio-slide w-slide"
+    class="home-portfolio-slide w-slide padding-top"
     style="transform: translateX(0px); opacity: 1">
         <div class="w-dyn-list">
             <div role="list" class="w-dyn-items">
                 <div role="listitem" class="w-dyn-item more-projects-width">
                     <a  class="card home-portfolio-card w-inline-block flex-direction-row">
                         <div class="image-wrapper portfolio-card">
-                           <h3 class="title home-portfolio-card"> Ağaoğlu My Home Ayazağa</h3>
+                           <h3 class="title home-portfolio-card">Ağaoğlu My Home Ayazağa</h3>
                             <div class="wg-box-content">
                                 <a href="#">
                                   <div class="wg-box-content-overlay"></div>
@@ -131,7 +131,7 @@
     </div>
                    <div aria-label="3 of 12"
     role="group"
-    class="home-portfolio-slide w-slide"
+    class="home-portfolio-slide w-slide padding-top2"
     style="transform: translateX(0px); opacity: 1">
         <div class="w-dyn-list">
             <div role="list" class="w-dyn-items">
@@ -168,7 +168,7 @@
     </div>
                    <div aria-label="4 of 12"
     role="group"
-    class="home-portfolio-slide w-slide"
+    class="home-portfolio-slide w-slide padding-top2"
     style="transform: translateX(0px); opacity: 1">
         <div class="w-dyn-list">
             <div role="list" class="w-dyn-items">
@@ -203,65 +203,53 @@
             </div>
         </div>
     </div>
-                   <div aria-label="5 of 12"
-    role="group"
-    class="home-portfolio-slide w-slide"
-    style="transform: translateX(0px); opacity: 1">
-        <div class="w-dyn-list">
-            <div role="list" class="w-dyn-items">
-                <div role="listitem" class="w-dyn-item more-projects-width">
+    <div aria-label="5 of 12"
+         role="group"
+         class="home-portfolio-slide w-slide padding-top2"
+         style="transform: translateX(0px); opacity: 1">
+          <div class="w-dyn-list">
+              <div role="list" class="w-dyn-items">
+                  <div role="listitem" class="w-dyn-item more-projects-width">
                     <a  class="card home-portfolio-card w-inline-block flex-direction-row">
-                        <div class="image-wrapper portfolio-card">
-                           <h3 class="title home-portfolio-card">WOW Congress Center Istanbul</h3>
-                            <div class="wg-box-content">
-                                <a href="#">
-                                  <div class="wg-box-content-overlay"></div>
-                                  <img
-                                  src="~/assets/image/wow.webp"
-                                  alt="Todo List Mobile App Redesign"
-                                  sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-                                  class="border-radius image"
-                                  />
-                                  <div class="wg-box-content-details wg-box-fadeIn-bottom">
-                                      <h3 class="wg-box-content-title">Site Chief</h3>
-                                      <p class="wg-box-content-text">
-                                        06.2011 - 04.2012<br></br>
-                                        15000m2 Construciton Zone<br></br>
-                                        Reference: Muzaffer Küpe
-                                      </p>
-                                  </div>
-                                </a>
+                      <div class="image-wrapper portfolio-card">
+                        <h3 class="title home-portfolio-card">WOW Congress Center Istanbul</h3>
+                          <div class="wg-box-content">
+                            <a href="#">
+                              <div class="wg-box-content-overlay"></div>
+                              <img
+                              src="~/assets/image/wow.webp"
+                              alt="Todo List Mobile App Redesign"
+                              sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
+                              class="border-radius image"
+                              />
+                              <div class="wg-box-content-details wg-box-fadeIn-bottom">
+                                  <h3 class="wg-box-content-title">Site Chief</h3>
+                                  <p class="wg-box-content-text">
+                                    06.2011 - 04.2012<br></br>
+                                    15000m2 Construciton Zone<br></br>
+                                    Reference: Muzaffer Küpe
+                                  </p>
                               </div>
-
-                        </div>
+                            </a>
+                          </div>
+                      </div>
                     </a>
-
-                </div>
-            </div>
-        </div>
+                  </div>
+              </div>
+          </div>
     </div>
-     <main class="container mt-5">
-    <div class="row">
-      <div class="col-12 text-right mb-4">
-        <div class="d-flex justify-content-between">
-          <h3>La Recipes</h3>
-          <nuxt-link to="/recipes/add" class="btn btn-info">Add Project</nuxt-link>
-        </div>
-      </div>
-      <template v-for="recipe in recipes">
-        <div :key="recipe.id" class="col-lg-3 col-md-4 col-sm-6 mb-4">
-          <recipe-card :onDelete="deleteRecipe" :recipe="recipe"></recipe-card>
+     <template v-for="recipe in recipes">
+        <div :key="recipe.id">
+          <recipe-card2 :onDelete="deleteRecipe" :recipe="recipe"></recipe-card2>
         </div>
       </template>
-    </div>
-  </main>
               <div
                 aria-live="off"
                 aria-atomic="true"
                 class="w-slider-aria-label"
                 data-wf-ignore=""
               ></div>
-            </div>
+          </div>
               
             </div>
             <div class="slide-nav w-slider-nav w-round">
@@ -377,20 +365,23 @@
           </div>
         </div>
       </div>
-    </div>   
+     
 </template>
+
+
 <script>
  
-  import RecipeCard from "~/components/RecipeCard.vue";
+  import RecipeCard2 from "~/components/RecipeCard2.vue";
 
 export default {
+  props: ["recipe", "onDelete"],
   head() {
     return {
       title: "Recipes list"
     };
   },
   components: {
-    RecipeCard
+    RecipeCard2
   },
   async asyncData({ $axios, params }) {
     try {
@@ -418,6 +409,11 @@ export default {
   }
 };
 </script>
+
+
+
+
+
 <style>
 .main-title{
   color: #2d2d2d;

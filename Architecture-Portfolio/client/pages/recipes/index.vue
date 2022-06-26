@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-12 text-right mb-4">
         <div class="d-flex justify-content-between">
-          <h3>La Recipes</h3>
+          <h3></h3>
           <nuxt-link to="/recipes/add" class="btn btn-info">Add Project</nuxt-link>
         </div>
       </div>
