@@ -4,7 +4,7 @@
       <div class="col-12 text-right mb-4">
         <div class="d-flex justify-content-between">
           <h3></h3>
-          <nuxt-link to="/recipes/add" class="btn btn-info">Add Project</nuxt-link>
+          <nuxt-link to="/recipes/add" class="button-primary w-button">Add Project</nuxt-link>
         </div>
       </div>
       <template v-for="recipe in recipes">
@@ -20,6 +20,7 @@
 import RecipeCard from "~/components/RecipeCard.vue";
 
 export default {
+  
   head() {
     return {
       title: "Recipes list"
@@ -54,6 +55,12 @@ export default {
   }
 };
 </script>
-
-<style scoped>
-</style>
+<!-- <script>
+export default {
+  layout: 'adminPanel',
+  // OR
+  layout (context) {
+    return 'adminPanel'
+  }
+}
+</script> -->

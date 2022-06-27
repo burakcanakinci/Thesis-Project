@@ -15,14 +15,39 @@
             <input type="text" class="form-control" v-model="recipe.name" >
           </div>
           <div class="form-group">
-            <label for>Information</label>
+            <label for>Description</label>
             <textarea type="text" v-model="recipe.ingredients" class="form-control" rows="8" name="Ingredients"></textarea>
           </div>
           <div class="form-group">
-            <label for>Project picture</label>
+            <label for>Project Picture</label>
             <input type="file" @change="onFileChange">
           </div>
-          <button type="submit" class="btn btn-success">Save</button>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="form-group">
+                <label for>Difficulty</label>
+                <select v-model="recipe.difficulty" class="form-control">
+                  <option value="Easy">Easy</option>
+                  <option value="Medium">Medium</option>
+                  <option value="Hard">Hard</option>
+                </select>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-group">
+                <label for>
+                  Year
+                </label>
+                <input v-model="recipe.prep_time" type="number" class="form-control">
+              </div>
+            </div>
+          </div>
+          <div class="form-group mb-3">
+            <label for>Notes</label>
+            <textarea v-model="recipe.prep_guide" class="form-control" rows="1"></textarea>
+          </div>
+          <div style="padding-top:40px;"></div>
+          <button type="submit" class="button-primary w-button">Save</button>
         </form>
       </div>
     </div>
@@ -54,8 +79,7 @@ export default {
         picture: "",
         ingredients: "",
         difficulty: "",
-        prep_time: null,
-        prep_guide: "",
+        
       },
       preview: ""
     };

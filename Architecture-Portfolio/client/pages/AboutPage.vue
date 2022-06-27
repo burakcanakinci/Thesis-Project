@@ -3,7 +3,7 @@
     <div class="section about-hero wf-section">
         <div class="container-default w-container">
             <div class="hero-about-wrapper">
-                <img src="~/assets/image/laptop-down.jpeg"
+                <img src="~/assets/image/aboutme1.jpeg"
                     alt=""
                     sizes="(max-width: 479px) 93vw, (max-width: 767px) 94vw, (max-width: 991px) 95vw, (max-width: 1439px) 43vw, 552px"
                     style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
@@ -91,7 +91,7 @@
                     id="w-node-_28d8b925-f381-1676-938b-22b5ac2a0b83-ecb625a8"
                     class="split-content my-story-image-wraper"
                 >
-                    <img src="~/assets/image/laptop-face.jpeg"
+                    <img src="~/assets/image/aboutme3.jpeg"
                          alt="About Image - You X Webflow Template"
                          sizes="100vw"
                          style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
@@ -101,7 +101,7 @@
                         data-w-id="452c3ecc-fcc9-ddf2-ae18-f4a92b6d6bbd"
                         class="image my-story"
                     >
-                    <img src="~/assets/image/laptop-sit.jpeg"
+                    <img src="~/assets/image/aboutme4.jpeg"
                          alt="About Image - You X Webflow Template"
                          sizes="100vw"
                          style="

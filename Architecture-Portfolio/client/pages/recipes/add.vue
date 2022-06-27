@@ -1,3 +1,8 @@
+
+
+<!-- GO TO admin.vue in layouts -->
+
+
 <template>
   <main class="container my-5">
     <div class="row">
@@ -30,7 +35,7 @@
             <input v-model="recipe.ingredients" type="text" class="form-control">
           </div>
           <div class="form-group">
-            <label for>Project picture</label>
+            <label for>Project Picture</label>
             <input type="file" name="file" @change="onFileChange">
           </div>
           

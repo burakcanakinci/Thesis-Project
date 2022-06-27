@@ -4,12 +4,8 @@
           <div class="hero-wrapper">
             <div
               data-w-id="709d9349-d07c-23cf-ffe0-25d8a3c4f186"
-              style="
-                transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                opacity: 1;
-                transform-style: preserve-3d;"
-              class="split-content hero-left"
+              
+              class="split-content hero-left scroll-animation"
             >
               <h3 class="title subtitle">Hello, I’m Gülçatay</h3>
               <h1 class="title home-hero">
@@ -32,7 +28,7 @@
                 transform-style: preserve-3d;"
                 class="image-wrapper hero-image">
               <img
-                src="~/assets/image/Picture3.png"
+                src="~/assets/image/circle-hero.png"
                 
                 sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, (max-width: 991px) 472px, (max-width: 1439px) 47vw, 588px"
                 alt="Product Designer - You X Webflow Template"

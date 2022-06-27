@@ -1,9 +1,9 @@
 <template>
   <div aria-label=""
          role="group"
-         class="home-portfolio-slide w-slide paddding-top2"
+         class="home-portfolio-slide w-slide"
          style="transform: translateX(0px); opacity: 1">
-          <div class="w-dyn-list">
+          <div class="w-dyn-list padding-top2">
               <div role="list" class="w-dyn-items">
                   <div role="listitem" class="w-dyn-item more-projects-width">
                     <a  class="card home-portfolio-card w-inline-block flex-direction-row">

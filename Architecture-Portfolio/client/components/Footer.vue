@@ -171,7 +171,7 @@
                     opacity: 1;"
             >
                 <div>
-                    Copyright falan varsa filan var
+                    Copyright
                     <a href="https://brixtemplates.com/"
                        target="_blank"
                        class="footer-bottom-link"

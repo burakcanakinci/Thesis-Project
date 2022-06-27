@@ -14,8 +14,14 @@
       </div>
       <div class="col-md-6">
         <div class="recipe-details">
-          <h4>Ingredients</h4>
-          <textarea class="form-control" rows="10" v-html="recipe.ingredients" disabled />
+          <h4>Notes</h4>
+          <p>{{ recipe.ingredients }}</p>
+          <h4>Year</h4>
+          <p>{{ recipe.prep_time }}</p>
+          <h4>Difficulty</h4>
+          <p>{{ recipe.difficulty }}</p>
+          <h4>Description</h4>
+          <textarea class="form-control" rows="8" v-html="recipe.ingredients" disabled />
         </div>
       </div>
     </div>

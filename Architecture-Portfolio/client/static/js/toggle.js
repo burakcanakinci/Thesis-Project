@@ -10,7 +10,7 @@
 //     }
 //   }
 
-// Navbar disappear
+// Navbar disappear on scroll
 
 var prevScrollpos = window.pageYOffset;
 window.onscroll = function() {
@@ -22,14 +22,3 @@ window.onscroll = function() {
   }
   prevScrollpos = currentScrollPos;
 }
-
-
-// Portfolio smooth scroll
-
-// $(".nav-link").on('click', function(e) {
-//   e.preventDefault();
-//   var target = $(this).attr('href');
-//   $('html, body').animate({
-//     scrollTop: ($(target).offset().top)
-//   }, 1000);
-// });

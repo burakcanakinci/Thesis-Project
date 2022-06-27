@@ -92,7 +92,7 @@
     </div>
                    <div aria-label="2 of 12"
     role="group"
-    class="home-portfolio-slide w-slide padding-top"
+    class="home-portfolio-slide w-slide padding-top2"
     style="transform: translateX(0px); opacity: 1">
         <div class="w-dyn-list">
             <div role="list" class="w-dyn-items">
@@ -134,7 +134,7 @@
     class="home-portfolio-slide w-slide padding-top2"
     style="transform: translateX(0px); opacity: 1">
         <div class="w-dyn-list">
-            <div role="list" class="w-dyn-items">
+            <div role="list" class="w-dyn-items ">
                 <div role="listitem" class="w-dyn-item more-projects-width">
                     <a  class="card home-portfolio-card w-inline-block flex-direction-row">
                         <div class="image-wrapper portfolio-card">
@@ -424,8 +424,6 @@ export default {
 
 .container{
   padding: 1em 0;
-  float: left;
-  width: 50%;
 }
 @media screen and (max-width: 640px){
   .container{
@@ -435,9 +433,7 @@ export default {
 }
 
 @media screen and (min-width: 900px){
-  .container{
-    width: 33.33333%;
-  }
+
 }
 
 .container .title{

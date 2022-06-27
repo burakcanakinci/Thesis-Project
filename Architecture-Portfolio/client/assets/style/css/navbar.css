@@ -5236,7 +5236,7 @@ html {
   }
   
   .button-primary {
-    padding: 24px 60px;
+    padding: 24px 50px;
     border-style: none;
     border-radius: 80px;
     background-color: var(--darkGreen);
@@ -6991,6 +6991,7 @@ html {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
+    padding-top: 70px
   }
   
   .services-main-wrapper {
@@ -10425,7 +10426,7 @@ html {
       width: 208%;
     }
     .title.portfolio {
-      margin-left: -91px;
+      margin-left: -25px;
     }
     .more-projects-margin-83 {
       margin-left: 10px;
@@ -11452,6 +11453,8 @@ html {
     font-style: normal;
     font-display: swap;
   }
+
+
   .list-style-none {
     list-style: none;
   }
@@ -11462,7 +11465,6 @@ html {
   .border-radius {
     border-radius: 24px;
   }
-  
   .more-button2 {
     padding-top: 100px;
     padding-left: 150px;
@@ -11479,4 +11481,30 @@ html {
   
   .padding {
     padding: 50px;
+  }
+  .button-padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .button-color-view {
+    background-color: var(--darkGreen);
+    color: #fff;
+  }
+  .button-color-edit {
+    background-color: #A09881;
+    color: #fff;
+  }
+  .button-color-delete {
+    background-color: var(--paleRed);
+    color: #fff;
+  }
+
+  .scroll-animation {
+    transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
+               rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
+    transform-style: preserve-3d;
+    opacity: 1;
+  }
+  .box-shadow {
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
   }

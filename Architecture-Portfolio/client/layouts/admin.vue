@@ -26,17 +26,14 @@
             <input type="text" class="form-control" v-model="recipe.name">
           </div>
           <div class="form-group">
-            <label for>Information</label>
+            <label for>Description</label>
             <textarea v-model="recipe.ingredients" type="text" rows="8" class="form-control"></textarea>
           </div>
           <div class="form-group">
             <label for>Project Picture</label>
             <input type="file" name="file" @change="onFileChange">
           </div>
-          <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
-
-        <div class="row">
+          <div class="row">
             <div class="col-md-6">
               <div class="form-group">
                 <label for>Difficulty</label>
@@ -50,17 +47,22 @@
             <div class="col-md-6">
               <div class="form-group">
                 <label for>
-                  Prep time
-                  <small>(minutes)</small>
+                  Year
                 </label>
                 <input v-model="recipe.prep_time" type="number" class="form-control">
               </div>
             </div>
           </div>
           <div class="form-group mb-3">
-            <label for>Preparation guide</label>
-            <textarea v-model="recipe.prep_guide" class="form-control" rows="8"></textarea>
+            <label for>Notes</label>
+            <textarea v-model="recipe.prep_guide" class="form-control" rows="1"></textarea>
           </div>
+          <div class="button-padding">
+          <button type="submit" class="button-primary w-button">Submit</button>
+          </div>
+        </form>
+
+        
       </div>
     </div>
   </main>
