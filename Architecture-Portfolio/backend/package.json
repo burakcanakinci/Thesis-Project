@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "buefy": "^0.9.21"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.3"
+  }
+}

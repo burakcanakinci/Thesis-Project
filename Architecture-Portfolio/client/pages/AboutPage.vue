@@ -2,23 +2,17 @@
 <div class="page-wrapper">
     <div class="section about-hero wf-section">
         <div class="container-default w-container">
-            <div class="hero-about-wrapper">
+            <div class="hero-about-wrapper padding-top">
                 <img src="~/assets/image/aboutme1.jpeg"
                     alt=""
                     sizes="(max-width: 479px) 93vw, (max-width: 767px) 94vw, (max-width: 991px) 95vw, (max-width: 1439px) 43vw, 552px"
-                    style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                            rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                            opacity: 1;
-                            transform-style: preserve-3d;"
+                    
                     data-w-id="2878c835-49d2-aa9e-0fe3-471325ec5814"
                     alt="About Image - You X Webflow Template"
                     class="image hero-about-wrapper"
                 >
                 <div data-w-id="2005a130-2207-0160-5c26-ea7fbe1af659"
-                    style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                            rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                            opacity: 1;
-                            transform-style: preserve-3d;"
+                    
                     class="split-content hero-about-right"
                 >
                 <h1 class="title hero-about">
@@ -41,12 +35,8 @@
                 <div
                     id="w-node-cc8181b8-3851-286c-91f0-b6a77f454fb7-ecb625a8"
                     data-w-id="cc8181b8-3851-286c-91f0-b6a77f454fb7"
-                    style="
-                            transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                            rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                            opacity: 1;
-                            transform-style: preserve-3d;"
-                    class="split-content my-story-content"
+                    
+                    class="split-content my-story-content reveal"
                 >
                     <h2 class="title my-story-title">My Story</h2>
                     <img src="https://assets.website-files.com/61129bb2ecedf803564c68ec/611406745e92080e404e517c_my-story-underline-personal-x-template.svg"
@@ -94,23 +84,16 @@
                     <img src="~/assets/image/aboutme3.jpeg"
                          alt="About Image - You X Webflow Template"
                          sizes="100vw"
-                         style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                                rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                                opacity: 1;
-                                transform-style: preserve-3d;"
+                         
                         data-w-id="452c3ecc-fcc9-ddf2-ae18-f4a92b6d6bbd"
-                        class="image my-story"
+                        class="image my-story reveal"
                     >
                     <img src="~/assets/image/aboutme4.jpeg"
                          alt="About Image - You X Webflow Template"
                          sizes="100vw"
-                         style="
-                                transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                                rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                                opacity: 1;
-                                transform-style: preserve-3d;"
+                         
                          data-w-id="3e502f5f-ca3d-1585-81f7-04c949529f43"
-                         class="image my-story last"
+                         class="image my-story last reveal"
                     >
                 </div>
             </div>
@@ -123,11 +106,8 @@
                 <div class="_2-column-grid resume-grid">
                     <div
                         data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571c8"
-                        style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                               rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                               opacity: 1;
-                               transform-style: preserve-3d;"
-                        class="card resume-card"
+                        
+                        class="card resume-card reveal"
                     >
                         <a 
                            target="_blank"
@@ -156,13 +136,8 @@
               </div>
               <div
                 data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571d7"
-                style="
-                  transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                    rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                  opacity: 1;
-                  transform-style: preserve-3d;
-                "
-                class="card resume-card"
+                
+                class="card resume-card reveal"
               >
                 <a
                   target="_blank"
@@ -173,7 +148,7 @@
                       loading="lazy"
                       alt="Twitter - You X Webflow Template"
                       class="image resume-social-logo"
-                    />
+                    >
                     <div class="hc-flex resume-social-link">
                     </div>
                   </div>
@@ -190,11 +165,8 @@
               </div>
               <div
                         data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571c8"
-                        style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                               rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                               opacity: 1;
-                               transform-style: preserve-3d;"
-                        class="card resume-card"
+                        
+                        class="card resume-card reveal"
                     >
                         <a 
                            target="_blank"
@@ -224,13 +196,8 @@
               </div>
               <div
                 data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571d7"
-                style="
-                  transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                    rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                  opacity: 1;
-                  transform-style: preserve-3d;
-                "
-                class="card resume-card"
+                
+                class="card resume-card reveal"
               >
                 <a
                   target="_blank"
@@ -241,7 +208,7 @@
                       loading="lazy"
                       alt="Twitter - You X Webflow Template"
                       class="image resume-social-logo"
-                    />
+                    >
                     <div class="hc-flex resume-social-link">
                     </div>
                   </div>
@@ -258,13 +225,8 @@
               </div>
               <div
                 data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571d7"
-                style="
-                  transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                    rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                  opacity: 1;
-                  transform-style: preserve-3d;
-                "
-                class="card resume-card"
+                
+                class="card resume-card reveal"
               >
                 <a
                   target="_blank"
@@ -275,7 +237,7 @@
                       loading="lazy"
                       alt="Twitter - You X Webflow Template"
                       class="image resume-social-logo"
-                    />
+                    >
                     <div class="hc-flex resume-social-link">
                     </div>
                   </div>
@@ -292,13 +254,8 @@
               </div>
               <div
                 data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571d7"
-                style="
-                  transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                    rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                  opacity: 1;
-                  transform-style: preserve-3d;
-                "
-                class="card resume-card"
+                
+                class="card resume-card reveal"
               >
                 <a
                   target="_blank"
@@ -309,7 +266,7 @@
                       loading="lazy"
                       alt="Twitter - You X Webflow Template"
                       class="image resume-social-logo"
-                    />
+                    >
                     <div class="hc-flex resume-social-link">
                     </div>
                   </div>
@@ -326,13 +283,8 @@
               </div>
               <div
                 data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571d7"
-                style="
-                  transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                    rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                  opacity: 1;
-                  transform-style: preserve-3d;
-                "
-                class="card resume-card"
+                
+                class="card resume-card reveal"
               >
                 <a
                   target="_blank"
@@ -343,7 +295,7 @@
                       loading="lazy"
                       alt="Twitter - You X Webflow Template"
                       class="image resume-social-logo"
-                    />
+                    >
                     <div class="hc-flex resume-social-link">
                     </div>
                   </div>
@@ -370,13 +322,8 @@
                 </p>
               </div><div
                 data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571d7"
-                style="
-                  transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                    rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                  opacity: 1;
-                  transform-style: preserve-3d;
-                "
-                class="card resume-card"
+                
+                class="card resume-card reveal"
               >
                 <a
                   target="_blank"
@@ -387,7 +334,7 @@
                       loading="lazy"
                       alt="Twitter - You X Webflow Template"
                       class="image resume-social-logo"
-                    />
+                    >
                     <div class="hc-flex resume-social-link">
                     </div>
                   </div>
@@ -425,11 +372,8 @@
                 <div class="_2-column-grid resume-grid">
                     <div
                         data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571c8"
-                        style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                               rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                               opacity: 1;
-                               transform-style: preserve-3d;"
-                        class="card resume-card"
+                        
+                        class="card resume-card reveal"
                     >
                         <a 
                            target="_blank"
@@ -457,11 +401,8 @@
               </div>
               <div
                         data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571c8"
-                        style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                               rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                               opacity: 1;
-                               transform-style: preserve-3d;"
-                        class="card resume-card"
+                        
+                        class="card resume-card reveal"
                     >
                         <a 
                            target="_blank"
@@ -489,11 +430,8 @@
               </div>
               <div
                         data-w-id="1bec2740-c8dd-6b60-6087-7cb36b1571c8"
-                        style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                               rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                               opacity: 1;
-                               transform-style: preserve-3d;"
-                        class="card resume-card"
+                        
+                        class="card resume-card reveal"
                     >
                         <a 
                            target="_blank"
@@ -529,13 +467,8 @@
         <div class="container-default w-container padding-top2">
           <div
             data-w-id="ad274269-b5f3-6f60-bdba-b6b124cb8a17"
-            style="
-              transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-              opacity: 1;
-              transform-style: preserve-3d;
-            "
-            class="container-small text-center my-skills"
+            
+            class="container-small text-center my-skills reveal"
           >
             <h2 class="title my-skills">My Skills</h2>
             <img
@@ -543,7 +476,7 @@
               loading="lazy"
               alt=""
               class="image skills-underline"
-            />
+            >
             <p class="paragraph">
               
               <span class="text-no-wrap"> </span>
@@ -552,20 +485,15 @@
           <div class="_3-column-grid skills-grid">
             <div
               data-w-id="739d5a7a-299a-f675-1598-5dbf0eca72c7"
-              style="
-                transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                  rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                opacity: 1;
-                transform-style: preserve-3d;
-              "
-              class="card skill-card first"
+              
+              class="card skill-card first reveal"
             >
               <img
                 src="~/assets/image/settings-6-fill.png"
                 loading="eager"
                 alt="Design - You X Webflow Template"
                 class="image skill-icon"
-              />
+              >
               <h3 class="title skill-name">Features</h3>
               <div class="title skill">Project Management</div>
               <div class="title skill">Persuasive Speaker</div>
@@ -575,20 +503,15 @@
             </div>
             <div
               data-w-id="3d66b597-9023-cbc4-30d5-27bbfe12d899"
-              style="
-                transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                  rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                opacity: 1;
-                transform-style: preserve-3d;
-              "
-              class="card skill-card center"
+              
+              class="card skill-card center reveal"
             >
               <img
                 src="~/assets/image/window-fill.png"
                 loading="eager"
                 alt="Development - You X Webflow Template"
                 class="image skill-icon"
-              />
+              >
               <h3 class="title skill-name">Software</h3>
               <div class="title skill">ACAD</div>
               <div class="title skill">MS Office</div>
@@ -598,20 +521,15 @@
             </div>
             <div
               data-w-id="e4cf7257-eb4e-d9e9-fc2a-3ea6d73e14ff"
-              style="
-                transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                  rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                opacity: 1;
-                transform-style: preserve-3d;
-              "
-              class="card skill-card last"
+              
+              class="card skill-card last reveal"
             >
               <img
                 src="~/assets/image/run-line.png"
                 loading="eager"
                 alt="Tools - You X Webflow Template"
                 class="image skill-icon"
-              />
+              >
               <h3 class="title skill-name">Hobbies</h3>
               <div class="title skill">Cooking</div>
               <div class="title skill">Swimming</div>

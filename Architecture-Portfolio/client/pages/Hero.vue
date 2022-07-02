@@ -4,8 +4,11 @@
           <div class="hero-wrapper">
             <div
               data-w-id="709d9349-d07c-23cf-ffe0-25d8a3c4f186"
-              
-              class="split-content hero-left scroll-animation"
+              style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
+                       rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
+                       transform-style: preserve-3d;
+                       opacity: 1;"
+              class="split-content hero-left"
             >
               <h3 class="title subtitle">Hello, I’m Gülçatay</h3>
               <h1 class="title home-hero">
@@ -21,11 +24,10 @@
               </div>
             </div>
             <div data-w-id="62baa06f-5c49-4902-dcc5-46ded3bffd2d"
-                style="
-                transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-                opacity: 1;
-                transform-style: preserve-3d;"
+                style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
+                       rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
+                       transform-style: preserve-3d;
+                       opacity: 1;"
                 class="image-wrapper hero-image">
               <img
                 src="~/assets/image/circle-hero.png"

@@ -3,13 +3,8 @@
       <div class="container-default w-container">
         <div
           data-w-id="958960c1-23c4-b448-27ed-e4d2345aee47"
-          style="
-            transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-            rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-            opacity: 1;
-            transform-style: preserve-3d;
-          "
-          class="top-content portfolio-top-content"
+          
+          class="top-content portfolio-top-content reveal"
         >
           <div class="split-content portfolio-left">
             <h2><NuxtLink class="title portfolio nav-link opacity" to="/MoreProjects">Take a look at my projects</NuxtLink></h2>
@@ -22,13 +17,8 @@
         </div>
         <div
           data-w-id="69f75c50-8619-7ebb-912d-114e45cb4c1a"
-          style="
-              transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg)
-              rotateY(0deg) rotateZ(0deg) skew(0deg);
-              opacity: 1;
-              transform-style: preserve-3d;
-          "
-          class="home-portfolio-slider-main-wrapper"
+          
+          class="home-portfolio-slider-main-wrapper reveal"
         >
           <div
             data-delay="4000"

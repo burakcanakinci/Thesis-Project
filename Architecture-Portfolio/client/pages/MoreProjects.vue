@@ -90,10 +90,9 @@
             </div>
         </div>
     </div>
-                   <div aria-label="2 of 12"
+    <div aria-label="2 of 12"
     role="group"
-    class="home-portfolio-slide w-slide padding-top2"
-    style="transform: translateX(0px); opacity: 1">
+    class="home-portfolio-slide w-slide padding-top2 reveal">
         <div class="w-dyn-list">
             <div role="list" class="w-dyn-items">
                 <div role="listitem" class="w-dyn-item more-projects-width">
@@ -129,10 +128,9 @@
             </div>
         </div>
     </div>
-                   <div aria-label="3 of 12"
+    <div aria-label="3 of 12"
     role="group"
-    class="home-portfolio-slide w-slide padding-top2"
-    style="transform: translateX(0px); opacity: 1">
+    class="home-portfolio-slide w-slide padding-top2 reveal">
         <div class="w-dyn-list">
             <div role="list" class="w-dyn-items ">
                 <div role="listitem" class="w-dyn-item more-projects-width">
@@ -166,10 +164,9 @@
             </div>
         </div>
     </div>
-                   <div aria-label="4 of 12"
+    <div aria-label="4 of 12"
     role="group"
-    class="home-portfolio-slide w-slide padding-top2"
-    style="transform: translateX(0px); opacity: 1">
+    class="home-portfolio-slide w-slide padding-top2 reveal">
         <div class="w-dyn-list">
             <div role="list" class="w-dyn-items">
                 <div role="listitem" class="w-dyn-item more-projects-width">
@@ -205,8 +202,7 @@
     </div>
     <div aria-label="5 of 12"
          role="group"
-         class="home-portfolio-slide w-slide padding-top2"
-         style="transform: translateX(0px); opacity: 1">
+         class="home-portfolio-slide w-slide padding-top2 reveal">
           <div class="w-dyn-list">
               <div role="list" class="w-dyn-items">
                   <div role="listitem" class="w-dyn-item more-projects-width">

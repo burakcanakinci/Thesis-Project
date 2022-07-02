@@ -13,6 +13,7 @@ export default {
       {
         src: 'js/toggle.js',
         body: true,
+        mode: 'client',
       },],
     meta: [
       { charset: 'utf-8' },

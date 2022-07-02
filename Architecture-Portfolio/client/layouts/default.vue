@@ -11,5 +11,6 @@ import Footer from '../components/Footer.vue';
 export default {
     name: "IndexPage",
     components: { Navbar, Footer}
+    
 }
 </script>

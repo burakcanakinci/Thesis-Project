@@ -5,13 +5,8 @@
         <div class="home-about-wrapper">
           <div
             data-w-id="1b4fbc4a-e967-008a-2aa9-4904969e8761"
-            style="
-              transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-              opacity: 1;
-              transform-style: preserve-3d;
-            "
-            class="image-wrapper home-about"
+            
+            class="image-wrapper home-about reveal"
           >
             <img
               src="~/assets/image/pink-hat.jpeg"
@@ -22,13 +17,8 @@
           </div>
           <div
             data-w-id="21a4c434-3893-cfcf-0f70-4b8ab2950946"
-            style="
-              transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
-                rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
-              opacity: 1;
-              transform-style: preserve-3d;
-            "
-            class="split-content home-about"
+            
+            class="split-content home-about reveal"
           >
             <h2 class="title home-about">About me</h2>
             <p class="paragraph home-about">
@@ -44,13 +34,8 @@
     </div>
     <div
       data-w-id="e0fb2ffc-b1a3-478c-0a65-4f26db701dd7"
-      style="
-        transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg)
-          rotateY(0deg) rotateZ(0deg) skew(0deg);
-        transform-style: preserve-3d;
-        opacity: 1;
-      "
-      class="top-content resume-top-content see-full-resume"
+      
+      class="top-content resume-top-content see-full-resume reveal"
     >
       <h2 class="title resume-section">Take a look at my resume</h2>
       <img

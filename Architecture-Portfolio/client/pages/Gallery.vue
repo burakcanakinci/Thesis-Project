@@ -17,7 +17,7 @@
             src="~/assets/image/Gallery/2.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
         />
         
         
@@ -25,19 +25,19 @@
             src="~/assets/image/Gallery/3.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
         />
         <img
             src="~/assets/image/Gallery/6.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
         />
         <img
             src="~/assets/image/Gallery/5.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
         />
         
         
@@ -45,105 +45,105 @@
             src="~/assets/image/Gallery/7.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
         />
         <img
             src="~/assets/image/Gallery/8.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
         />
         <img
             src="~/assets/image/Gallery/9.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image"
+            class="image reveal"
             style="padding-bottom:50px"
         />
         <img
             src="~/assets/image/Gallery/10.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image"
+            class="image reveal"
             style="padding-left:50px;"
         />
         <img
             src="~/assets/image/Gallery/11.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
         />
         <img
             src="~/assets/image/Gallery/12.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image"
+            class="image reveal"
             style="padding-bottom:50px"
         />
         <img
             src="~/assets/image/Gallery/13.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image"
+            class="image reveal"
             style="padding-bottom:50px"
         />
         <img
             src="~/assets/image/Gallery/14.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image"
+            class="image reveal"
             style="padding-left:10px; padding-top:20px; padding-bottom:50px;"
         />
         <img
             src="~/assets/image/Gallery/17.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image"
+            class="image reveal"
             style="padding-bottom:50px"
         />
         <img
             src="~/assets/image/Gallery/16.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
         />
         <img
             src="~/assets/image/Gallery/18.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image"
+            class="image reveal"
             style="padding-bottom:50px"
         />
         <img
             src="~/assets/image/Gallery/19.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
         /><img
             src="~/assets/image/Gallery/20.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
         />
         <img
             src="~/assets/image/Gallery/22.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image "
+            class="image reveal "
             style="padding-bottom:50px"
         />
         <img
             src="~/assets/image/Gallery/21.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
         />
         
         <img
             src="~/assets/image/Gallery/23.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image"
+            class="image reveal"
             style="padding-bottom:50px"
         />
         
@@ -151,79 +151,79 @@
             src="~/assets/image/Gallery/25.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image"
+            class="image reveal"
             style="padding-bottom:50px"
         />
         <img
             src="~/assets/image/Gallery/26.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
         />
         <img
             src="~/assets/image/Gallery/27.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
         />
         <img
             src="~/assets/image/Gallery/28.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image"
+            class="image reveal"
             style="padding-bottom:50px"
         />
         <img
             src="~/assets/image/Gallery/29.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image"
+            class="image reveal"
             style="padding-left:40px"
         />
         <img
             src="~/assets/image/Gallery/30.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
             style="padding-left:350px"
         />
         <img
             src="~/assets/image/Gallery/31.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
         />
         <img
             src="~/assets/image/Gallery/32.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image"
+            class="image reveal"
             style="padding-bottom:50px"
         />
         <img
             src="~/assets/image/Gallery/33.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
         />
         <img
             src="~/assets/image/Gallery/34.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
         />
         <img
             src="~/assets/image/Gallery/35.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image"
+            class="image reveal"
             style="padding-bottom:50px"
         />
         <img
             src="~/assets/image/Gallery/36.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image"
+            class="image reveal"
             style="padding-left:30px"
         />
         
@@ -232,58 +232,58 @@
             src="~/assets/image/Gallery/40.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
         />
         <img
             src="~/assets/image/Gallery/41.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
         />
         <img
             src="~/assets/image/Gallery/43.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
         />
         <img
             src="~/assets/image/Gallery/44.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image"
+            class="image reveal"
             style="padding-bottom:50px"
         />
         <img
             src="~/assets/image/Gallery/45.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
         />
         <img
             src="~/assets/image/Gallery/46.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
         />
         <img
             src="~/assets/image/Gallery/47.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image"
+            class="image reveal"
             style="padding-bottom:50px"
         />
         <img
             src="~/assets/image/Gallery/48.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image"
+            class="image reveal"
             style="padding-left:30px;"
         />
         <img
             src="~/assets/image/Gallery/49.jpg"
             alt="Todo List Mobile App Redesign"
             sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, 575px"
-            class="image padding"
+            class="image padding reveal"
         />
         </div>
       </div>  

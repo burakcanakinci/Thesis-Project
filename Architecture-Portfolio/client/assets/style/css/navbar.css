@@ -939,9 +939,6 @@ html {
       margin-left: 100px;
     }
     
-    .pages-up {
-      
-    }
     .w-container {
       max-width: none;
     }
@@ -11508,3 +11505,54 @@ html {
   .box-shadow {
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
   }
+
+  .reveal {
+    position: relative;
+    transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
+    rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
+    transform-style: preserve-3d;
+    opacity: 0;
+    
+  }
+  .reveal.active {
+    transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
+    rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg);
+    transform-style: preserve-3d;
+    opacity: 1;
+    transition: 0.5s ease;
+  }
+
+  section {
+    height: 300px;
+    width: 60%;
+    max-width: 600px;
+    position: relative;
+    top: 30px;
+    background-color: #fff;
+    margin: 45px auto;
+    padding: 10px 30px;
+    text-align: center;
+    border-radius: 6px;
+    text-align: left;
+    color: #333;
+    opacity: 0;
+    transition: all 0.3s ease;
+  }
+  
+  section.active {
+    opacity: 1;
+    top: 0;
+  }
+
+  #revealPoint {
+    position: fixed;
+    height: 20px;
+    width: 100%;
+    left: 0;
+    bottom: 150px;
+    color: red;
+    padding: 7px;
+    margin: 0;
+    border-bottom: 1px solid red;
+  }
+  
