@@ -3,13 +3,9 @@ from django.urls import path, include        # add this
 from django.conf import settings             # add this
 from django.conf.urls.static import static   # add this
 
-from django.urls import include, path
-
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path("api/", include('core.urls')),
-    path('accounts/', include('accounts.urls')),
-    path('', include('djoser.urls.authtoken')),
+    path("api/", include('core.urls'))       # add this
 ]
 
 # add this
